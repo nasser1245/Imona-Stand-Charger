@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=DS_8 Pin=P10-1
+Removed Pin From Net: NetName=ST_CP_10 Pin=P10-2
+Removed Pin From Net: NetName=SH_CP_11 Pin=P10-3
+Removed Pin From Net: NetName=VCC Pin=P10-4
+Removed Pin From Net: NetName=GND Pin=P10-5
+Change Component Comment : Designator=P0 Old Comment=Header 12 New Comment=Header 12H
+Added Pin To Net: NetName=0_00 Pin=P0-12
+Added Pin To Net: NetName=VCC Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-2
+Added Pin To Net: NetName=DS_8 Pin=P10-3
+Added Pin To Net: NetName=ST_CP_10 Pin=P10-4
+Added Pin To Net: NetName=SH_CP_11 Pin=P10-5
+Added Pin To Net: NetName=0_00 Pin=SR1-3

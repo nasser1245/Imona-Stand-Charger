@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=5V Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=Q7-3
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Member From Class: ClassName=shelfControl Member=Q7
+Change component parameters: Designator = "R18"; Footprint = "6-0805_L"; UniqueID = "\GVUFYKXX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=Q17(SOT-23_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=D1-A
+Added Pin To Net: NetName=12V Pin=D2-A
+Added Pin To Net: NetName=NetD3_1 Pin=D3-A
+Added Pin To Net: NetName=NetD3_1 Pin=D4-A
+Added Pin To Net: NetName=NetD5_1 Pin=D5-A
+Added Pin To Net: NetName=NetD5_1 Pin=D6-A
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=5V Pin=Q17-1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=Q17-3
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetQ17_2 Pin=Q17-2
+Added Pin To Net: NetName=NetQ17_2 Pin=R16-2
+Added Pin To Net: NetName=NetQ17_2 Pin=R18-1
+Added Net: Name=NetQ17_2
+Added Member To Class: ClassName=shelfControl Member=Component Q17 s9012
+Added Room: Name=shelfControl

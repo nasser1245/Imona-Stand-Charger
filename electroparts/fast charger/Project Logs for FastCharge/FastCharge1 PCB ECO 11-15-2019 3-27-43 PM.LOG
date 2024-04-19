@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=USB-A NewDesignator=USB-Type-A
+Added Component: Designator=R7(6-0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Res 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R8(6-0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Res 0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U2-6
+Added Pin To Net: NetName=NetR7_2 Pin=USB-Type-A-3
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U2-5
+Added Pin To Net: NetName=NetR8_1 Pin=USB-Type-A-2
+Added Net: Name=NetR8_1
+Added Member To Class: ClassName=FastCharge Member=Component R7 10k
+Added Member To Class: ClassName=FastCharge Member=Component R8 10k
+Added Room: Name=FastCharge

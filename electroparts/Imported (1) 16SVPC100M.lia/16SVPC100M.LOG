@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 16SVPC100M.LibPkg
+
+Section : E:\standCharger\electroparts\16SVPC100M.lia
+    Section : PCB Library - 16SVPC100M.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 16SVPC100M On Line 118
+            Warning - 1 : Skipping Token attachedSymbol On Line 165
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*CAPAE0607X600N][Primary] associated with PCAD Component [16SVPC100M] has been renamed to PCB FootPrint [*CAPAE0607X600N_16SVPC100M(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 16SVPC100M.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - 16SVPC100M.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*CAPAE0607X600N][Primary] associated with PCAD Component [16SVPC100M] has been renamed to PCB FootPrint [*CAPAE0607X600N_16SVPC100M(Primary)].
+        EndSection
+    EndSection
+EndSection

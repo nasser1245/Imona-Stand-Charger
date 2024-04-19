@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=3.3V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=2.5V Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-NEG
+Added Pin To Net: NetName=GND Pin=C3-NEG
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-NEG
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-A
+Added Pin To Net: NetName=NetD2_2 Pin=D2-A
+Added Pin To Net: NetName=NetD3_2 Pin=D3-A
+Added Pin To Net: NetName=NetD4_2 Pin=D4-A
+Added Pin To Net: NetName=NetD5_2 Pin=D5-A
+Added Pin To Net: NetName=NetD6_2 Pin=D6-A
+Added Pin To Net: NetName=3.3V Pin=J1-2
+Added Pin To Net: NetName=2.5V Pin=J7-2
+Added Pin To Net: NetName=GND Pin=Reg1-1
+Added Pin To Net: NetName=GND Pin=Reg2-1
+Added Pin To Net: NetName=GND Pin=Reg3-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=M1-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=M2-2
+Added Net: Name=NetJ7_1
+Added Room: Name=shelfControl

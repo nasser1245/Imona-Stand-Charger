@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FastCharge.PrjPcb]
+   Generated File[FastCharge1.GTL]
+   Generated File[FastCharge1.RUL]
+   Generated File[FastCharge1.EXTREP]
+   Generated File[FastCharge1.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:04:18 PM On 12/7/2019

@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-3
+Change Component Footprint: Designator=J1 Old Footprint=Power Jack New Footprint=*TE_6-1123723-2
+Change Component Comment : Designator=L1 Old Comment=100uH New Comment=33uH
+Change Component Comment : Designator=J1 Old Comment=Power jack New Comment=6-1123723-2
+Change Component Comment : Designator=R3 Old Comment=RESISTOR New Comment=1k
+Change Component Comment : Designator=R1 Old Comment=RESISTOR New Comment=2k2
+Change Component Comment : Designator=R5 Old Comment=RESISTOR New Comment=2k2
+Change Component Comment : Designator=R2 Old Comment=RESISTOR New Comment=33k
+Change Component Comment : Designator=R6 Old Comment=RESISTOR New Comment=38k4
+Change Component Comment : Designator=R4 Old Comment=RESISTOR New Comment=100k
+Change component parameters: Designator = "C1"; Footprint = "Cap 3.5mm"; UniqueID = "\SNHXYTHI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Cap 7.6mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "Cap 3.5mm"; UniqueID = "\IJDSDANK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Cap 7.6mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "SMD 0805"; UniqueID = "\UCRCAIFM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Cap non 2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "SMD 0805"; UniqueID = "\UAPHTAPB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Cap non 2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "SMD 0805"; UniqueID = "\YJFUVGNE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Cap non 2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "SMD 0805"; UniqueID = "\BKBGASQR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Cap non 2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "DIODE DO-214AC SMD"; UniqueID = "\XSKYKCQU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Diode 2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "Jumper Header 2X1"; UniqueID = "\QBCYRXKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Jumper dip 2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "Inductor 5.8mm"; UniqueID = "\JFLJCOWH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Inductor 26.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "0805_1/8W"; UniqueID = "\DVWNWVHL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Res 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "0805_1/8W"; UniqueID = "\HCWGWTQB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Res 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "0805_1/8W"; UniqueID = "\JMPYEUFI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Res 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "0805_1/8W"; UniqueID = "\XTCYAPLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Res 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "0805_1/8W"; UniqueID = "\BSLWGAHT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Res 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "0805_1/8W"; UniqueID = "\RNNRRMAO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Res 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "TO-263 5 LEAD"; UniqueID = "\JNEIKRGA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "LM2596 TO263 5 LEAD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "USB1"; Footprint = "USB2.5-2H4C"; UniqueID = "\EDAMGUKJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "USB type A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1"; Footprint = "*TE_6-1123723-2"; UniqueID = "\EAFALOPS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Centerline_Pitch"; Value = "3.96 mm[.156 in]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "6-1123723-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number_of_Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product_Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/6-1123723-2/TE%20Connectivity%20AMP%20Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-6-1123723-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-2
+Added Room: Name=FastCharge

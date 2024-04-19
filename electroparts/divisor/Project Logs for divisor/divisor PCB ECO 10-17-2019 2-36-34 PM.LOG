@@ -1,0 +1,56 @@
+Added Component: Designator=J?(*TE_6-1123723-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "3.96 mm[.156 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "6-1123723-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/6-1123723-2/TE%20Connectivity%20AMP%20Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-6-1123723-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD00_1 Pin=D00-A
+Added Pin To Net: NetName=NetD00_2 Pin=D01-A
+Added Pin To Net: NetName=NetD00_2 Pin=D02-A
+Added Pin To Net: NetName=NetD00_2 Pin=D03-A
+Added Pin To Net: NetName=NetD00_2 Pin=D04-A
+Added Pin To Net: NetName=NetD00_2 Pin=D05-A
+Added Pin To Net: NetName=NetD00_2 Pin=D06-A
+Added Pin To Net: NetName=NetD00_2 Pin=D07-A
+Added Pin To Net: NetName=NetD00_2 Pin=D08-A
+Added Pin To Net: NetName=NetD00_2 Pin=D09-A
+Added Pin To Net: NetName=NetD10_1 Pin=D10-A
+Added Pin To Net: NetName=NetD11_1 Pin=D11-A
+Added Pin To Net: NetName=NetD13_1 Pin=D13-A
+Added Pin To Net: NetName=NetD14_1 Pin=D14-A
+Added Pin To Net: NetName=NetD15_1 Pin=D15-A
+Added Pin To Net: NetName=NetD16_1 Pin=D16-A
+Added Pin To Net: NetName=NetD17_1 Pin=D17-A
+Added Pin To Net: NetName=NetD18_1 Pin=D18-A
+Added Pin To Net: NetName=NetD19_1 Pin=D19-A
+Added Pin To Net: NetName=NetD20_1 Pin=D20-A
+Added Pin To Net: NetName=NetD20_2 Pin=D21-A
+Added Pin To Net: NetName=NetD20_2 Pin=D22-A
+Added Pin To Net: NetName=NetD20_2 Pin=D23-A
+Added Pin To Net: NetName=NetD20_2 Pin=D24-A
+Added Pin To Net: NetName=NetD20_2 Pin=D25-A
+Added Pin To Net: NetName=NetD20_2 Pin=D26-A
+Added Pin To Net: NetName=NetD20_2 Pin=D27-A
+Added Pin To Net: NetName=NetD20_2 Pin=D28-A
+Added Pin To Net: NetName=NetD20_2 Pin=D29-A
+Added Pin To Net: NetName=NetD30_1 Pin=D30-A
+Added Pin To Net: NetName=NetD30_2 Pin=D31-A
+Added Pin To Net: NetName=NetD30_2 Pin=D32-A
+Added Pin To Net: NetName=NetD30_2 Pin=D33-A
+Added Pin To Net: NetName=NetD30_2 Pin=D34-A
+Added Pin To Net: NetName=NetD30_2 Pin=D35-A
+Added Pin To Net: NetName=NetD30_2 Pin=D36-A
+Added Pin To Net: NetName=NetD30_2 Pin=D37-A
+Added Pin To Net: NetName=NetD30_2 Pin=D38-A
+Added Pin To Net: NetName=NetD30_2 Pin=D39-A
+Added Pin To Net: NetName=NetD10_2 Pin=D112-A
+Added Member To Class: ClassName=divisor Member=Component J? 6-1123723-2
+Added Room: Name=divisor

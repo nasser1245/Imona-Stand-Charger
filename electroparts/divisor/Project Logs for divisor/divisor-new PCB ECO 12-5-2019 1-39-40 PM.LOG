@@ -1,0 +1,576 @@
+Removed Pin From Net: NetName=NetP21_1 Pin=R5-1
+Added Component: Designator=D5(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D10(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D11(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D12(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D13(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D14(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D15(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D18(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D19(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D20(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D21(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D22(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D23(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D24(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D25(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D26(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D27(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D28(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D29(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D30(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D31(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D32(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D33(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D34(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D35(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D36(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D37(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D38(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D39(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D40(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P12(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P13(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P14(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P15(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P17(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P18(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P19(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P20(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P21(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(6-0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(6-0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(6-0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(6-0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-A
+Added Pin To Net: NetName=NetD2_2 Pin=D2-A
+Added Pin To Net: NetName=NetD3_1 Pin=D3-A
+Added Pin To Net: NetName=NetD4_1 Pin=D4-A
+Added Pin To Net: NetName=NetD1_2 Pin=D5-A
+Added Pin To Net: NetName=NetD5_1 Pin=D5-A
+Added Pin To Net: NetName=NetD2_2 Pin=D6-A
+Added Pin To Net: NetName=NetD6_1 Pin=D6-A
+Added Pin To Net: NetName=NetD3_2 Pin=D7-A
+Added Pin To Net: NetName=NetD7_1 Pin=D7-A
+Added Pin To Net: NetName=NetD4_2 Pin=D8-A
+Added Pin To Net: NetName=NetD8_1 Pin=D8-A
+Added Pin To Net: NetName=NetD1_2 Pin=D9-A
+Added Pin To Net: NetName=NetD9_1 Pin=D9-A
+Added Pin To Net: NetName=NetD2_2 Pin=D10-A
+Added Pin To Net: NetName=NetD10_1 Pin=D10-A
+Added Pin To Net: NetName=NetD3_2 Pin=D11-A
+Added Pin To Net: NetName=NetD11_1 Pin=D11-A
+Added Pin To Net: NetName=NetD4_2 Pin=D12-A
+Added Pin To Net: NetName=NetD12_1 Pin=D12-A
+Added Pin To Net: NetName=NetD1_2 Pin=D13-A
+Added Pin To Net: NetName=NetD13_1 Pin=D13-A
+Added Pin To Net: NetName=NetD3_2 Pin=D14-A
+Added Pin To Net: NetName=NetD14_1 Pin=D14-A
+Added Pin To Net: NetName=NetD4_2 Pin=D15-A
+Added Pin To Net: NetName=NetD15_1 Pin=D15-A
+Added Pin To Net: NetName=NetD4_2 Pin=D16-A
+Added Pin To Net: NetName=NetD16_1 Pin=D16-A
+Added Pin To Net: NetName=NetD1_2 Pin=D17-A
+Added Pin To Net: NetName=NetD17_1 Pin=D17-A
+Added Pin To Net: NetName=NetD2_2 Pin=D18-A
+Added Pin To Net: NetName=NetD18_1 Pin=D18-A
+Added Pin To Net: NetName=NetD3_2 Pin=D19-A
+Added Pin To Net: NetName=NetD19_1 Pin=D19-A
+Added Pin To Net: NetName=NetD4_2 Pin=D20-A
+Added Pin To Net: NetName=NetD20_1 Pin=D20-A
+Added Pin To Net: NetName=NetD1_2 Pin=D21-A
+Added Pin To Net: NetName=NetD21_1 Pin=D21-A
+Added Pin To Net: NetName=NetD2_2 Pin=D22-A
+Added Pin To Net: NetName=NetD22_1 Pin=D22-A
+Added Pin To Net: NetName=NetD3_2 Pin=D23-A
+Added Pin To Net: NetName=NetD23_1 Pin=D23-A
+Added Pin To Net: NetName=NetD4_2 Pin=D24-A
+Added Pin To Net: NetName=NetD24_1 Pin=D24-A
+Added Pin To Net: NetName=NetD1_2 Pin=D25-A
+Added Pin To Net: NetName=NetD25_1 Pin=D25-A
+Added Pin To Net: NetName=NetD2_2 Pin=D26-A
+Added Pin To Net: NetName=NetD26_1 Pin=D26-A
+Added Pin To Net: NetName=NetD3_2 Pin=D27-A
+Added Pin To Net: NetName=NetD27_1 Pin=D27-A
+Added Pin To Net: NetName=NetD4_2 Pin=D28-A
+Added Pin To Net: NetName=NetD28_1 Pin=D28-A
+Added Pin To Net: NetName=NetD1_2 Pin=D29-A
+Added Pin To Net: NetName=NetD29_1 Pin=D29-A
+Added Pin To Net: NetName=NetD2_2 Pin=D30-A
+Added Pin To Net: NetName=NetD30_1 Pin=D30-A
+Added Pin To Net: NetName=NetD3_2 Pin=D31-A
+Added Pin To Net: NetName=NetD31_1 Pin=D31-A
+Added Pin To Net: NetName=NetD4_2 Pin=D32-A
+Added Pin To Net: NetName=NetD32_1 Pin=D32-A
+Added Pin To Net: NetName=NetD1_2 Pin=D33-A
+Added Pin To Net: NetName=NetD33_1 Pin=D33-A
+Added Pin To Net: NetName=NetD2_2 Pin=D34-A
+Added Pin To Net: NetName=NetD34_1 Pin=D34-A
+Added Pin To Net: NetName=NetD3_2 Pin=D35-A
+Added Pin To Net: NetName=NetD35_1 Pin=D35-A
+Added Pin To Net: NetName=NetD4_2 Pin=D36-A
+Added Pin To Net: NetName=NetD36_1 Pin=D36-A
+Added Pin To Net: NetName=NetD1_2 Pin=D37-A
+Added Pin To Net: NetName=NetD37_1 Pin=D37-A
+Added Pin To Net: NetName=NetD2_2 Pin=D38-A
+Added Pin To Net: NetName=NetD38_1 Pin=D38-A
+Added Pin To Net: NetName=NetD3_2 Pin=D39-A
+Added Pin To Net: NetName=NetD39_1 Pin=D39-A
+Added Pin To Net: NetName=NetD4_2 Pin=D40-A
+Added Pin To Net: NetName=NetD40_1 Pin=D40-A
+Added Pin To Net: NetName=NetD5_1 Pin=P12-1
+Added Pin To Net: NetName=NetD6_1 Pin=P12-2
+Added Pin To Net: NetName=NetD7_1 Pin=P12-3
+Added Pin To Net: NetName=NetD8_1 Pin=P12-4
+Added Pin To Net: NetName=NetD9_1 Pin=P13-1
+Added Pin To Net: NetName=NetD10_1 Pin=P13-2
+Added Pin To Net: NetName=NetD11_1 Pin=P13-3
+Added Pin To Net: NetName=NetD12_1 Pin=P13-4
+Added Pin To Net: NetName=NetD13_1 Pin=P14-1
+Added Pin To Net: NetName=NetD14_1 Pin=P14-2
+Added Pin To Net: NetName=NetD15_1 Pin=P14-3
+Added Pin To Net: NetName=NetD16_1 Pin=P14-4
+Added Pin To Net: NetName=NetD17_1 Pin=P15-1
+Added Pin To Net: NetName=NetD18_1 Pin=P15-2
+Added Pin To Net: NetName=NetD19_1 Pin=P15-3
+Added Pin To Net: NetName=NetD20_1 Pin=P15-4
+Added Pin To Net: NetName=NetD25_1 Pin=P17-1
+Added Pin To Net: NetName=NetD26_1 Pin=P17-2
+Added Pin To Net: NetName=NetD27_1 Pin=P17-3
+Added Pin To Net: NetName=NetD28_1 Pin=P17-4
+Added Pin To Net: NetName=NetD29_1 Pin=P18-1
+Added Pin To Net: NetName=NetD30_1 Pin=P18-2
+Added Pin To Net: NetName=NetD31_1 Pin=P18-3
+Added Pin To Net: NetName=NetD32_1 Pin=P18-4
+Added Pin To Net: NetName=NetD33_1 Pin=P19-1
+Added Pin To Net: NetName=NetD34_1 Pin=P19-2
+Added Pin To Net: NetName=NetD35_1 Pin=P19-3
+Added Pin To Net: NetName=NetD36_1 Pin=P19-4
+Added Pin To Net: NetName=NetD37_1 Pin=P20-1
+Added Pin To Net: NetName=NetD38_1 Pin=P20-2
+Added Pin To Net: NetName=NetD39_1 Pin=P20-3
+Added Pin To Net: NetName=NetD40_1 Pin=P20-4
+Added Pin To Net: NetName=NetP21_1 Pin=P21-1
+Added Pin To Net: NetName=NetP21_2 Pin=P21-2
+Added Pin To Net: NetName=NetP21_3 Pin=P21-3
+Added Pin To Net: NetName=NetP21_4 Pin=P21-4
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Pin To Net: NetName=NetP21_1 Pin=R1-2
+Added Pin To Net: NetName=NetD2_2 Pin=R2-1
+Added Pin To Net: NetName=NetP21_2 Pin=R2-2
+Added Pin To Net: NetName=NetD3_2 Pin=R3-1
+Added Pin To Net: NetName=NetP21_3 Pin=R3-2
+Added Pin To Net: NetName=NetD4_2 Pin=R4-1
+Added Pin To Net: NetName=NetP21_4 Pin=R4-2
+Added Member To Class: ClassName=divisor Member=Component D5 SM120A
+Added Member To Class: ClassName=divisor Member=Component D6 SM120A
+Added Member To Class: ClassName=divisor Member=Component D7 SM120A
+Added Member To Class: ClassName=divisor Member=Component D8 SM120A
+Added Member To Class: ClassName=divisor Member=Component D9 SM120A
+Added Member To Class: ClassName=divisor Member=Component D10 SM120A
+Added Member To Class: ClassName=divisor Member=Component D11 SM120A
+Added Member To Class: ClassName=divisor Member=Component D12 SM120A
+Added Member To Class: ClassName=divisor Member=Component D13 SM120A
+Added Member To Class: ClassName=divisor Member=Component D14 SM120A
+Added Member To Class: ClassName=divisor Member=Component D15 SM120A
+Added Member To Class: ClassName=divisor Member=Component D16 SM120A
+Added Member To Class: ClassName=divisor Member=Component D17 SM120A
+Added Member To Class: ClassName=divisor Member=Component D18 SM120A
+Added Member To Class: ClassName=divisor Member=Component D19 SM120A
+Added Member To Class: ClassName=divisor Member=Component D20 SM120A
+Added Member To Class: ClassName=divisor Member=Component D21 SM120A
+Added Member To Class: ClassName=divisor Member=Component D22 SM120A
+Added Member To Class: ClassName=divisor Member=Component D23 SM120A
+Added Member To Class: ClassName=divisor Member=Component D24 SM120A
+Added Member To Class: ClassName=divisor Member=Component D25 SM120A
+Added Member To Class: ClassName=divisor Member=Component D26 SM120A
+Added Member To Class: ClassName=divisor Member=Component D27 SM120A
+Added Member To Class: ClassName=divisor Member=Component D28 SM120A
+Added Member To Class: ClassName=divisor Member=Component D29 SM120A
+Added Member To Class: ClassName=divisor Member=Component D30 SM120A
+Added Member To Class: ClassName=divisor Member=Component D31 SM120A
+Added Member To Class: ClassName=divisor Member=Component D32 SM120A
+Added Member To Class: ClassName=divisor Member=Component D33 SM120A
+Added Member To Class: ClassName=divisor Member=Component D34 SM120A
+Added Member To Class: ClassName=divisor Member=Component D35 SM120A
+Added Member To Class: ClassName=divisor Member=Component D36 SM120A
+Added Member To Class: ClassName=divisor Member=Component D37 SM120A
+Added Member To Class: ClassName=divisor Member=Component D38 SM120A
+Added Member To Class: ClassName=divisor Member=Component D39 SM120A
+Added Member To Class: ClassName=divisor Member=Component D40 SM120A
+Added Member To Class: ClassName=divisor Member=Component P12 Header 4
+Added Member To Class: ClassName=divisor Member=Component P13 Header 4
+Added Member To Class: ClassName=divisor Member=Component P14 Header 4
+Added Member To Class: ClassName=divisor Member=Component P15 Header 4
+Added Member To Class: ClassName=divisor Member=Component P17 Header 4
+Added Member To Class: ClassName=divisor Member=Component P18 Header 4
+Added Member To Class: ClassName=divisor Member=Component P19 Header 4
+Added Member To Class: ClassName=divisor Member=Component P20 Header 4
+Added Member To Class: ClassName=divisor Member=Component P21 Header 4
+Added Member To Class: ClassName=divisor Member=Component R1 Res1
+Added Member To Class: ClassName=divisor Member=Component R2 Res1
+Added Member To Class: ClassName=divisor Member=Component R3 Res1
+Added Member To Class: ClassName=divisor Member=Component R4 Res1
+Added Room: Name=divisor

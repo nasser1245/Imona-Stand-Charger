@@ -1,0 +1,29 @@
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetI1_1 Pin=I1-1
+Added Pin To Net: NetName=GND Pin=I1-2
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=OUT Pin=P1-3
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=NetI1_1 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=R3-1
+Added Pin To Net: NetName=OUT Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-2
+Added Member To Class: ClassName=PhonePresent Member=Component C1 Cap
+Added Member To Class: ClassName=PhonePresent Member=Component D1 LED1
+Added Member To Class: ClassName=PhonePresent Member=Component I1 ir1
+Added Member To Class: ClassName=PhonePresent Member=Component P1 Header 3H
+Added Member To Class: ClassName=PhonePresent Member=Component Q1 Photo NPN
+Added Member To Class: ClassName=PhonePresent Member=Component R1 Res1
+Added Member To Class: ClassName=PhonePresent Member=Component R2 Res1
+Added Member To Class: ClassName=PhonePresent Member=Component R3 Res1
+Added Member To Class: ClassName=PhonePresent Member=Component R4 Res1
+Added Room: Name=PhonePresent

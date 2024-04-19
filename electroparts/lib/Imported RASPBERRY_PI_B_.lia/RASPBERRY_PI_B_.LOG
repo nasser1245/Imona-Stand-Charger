@@ -1,0 +1,92 @@
+PCAD Importer Log
+Project : RASPBERRY_PI_B_.LibPkg
+
+Section : E:\standCharger\electroparts\lib\RASPBERRY_PI_B_.lia
+    Section : PCB Library - RASPBERRY_PI_B_.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 193
+            Warning - 1 : Skipping Token isVisible On Line 202
+            Warning - 1 : Skipping Token isVisible On Line 219
+            Warning - 1 : Skipping Token isVisible On Line 344
+            Warning - 1 : Skipping Token isVisible On Line 345
+            Warning - 1 : Skipping Token isVisible On Line 346
+            Warning - 1 : Skipping Token isVisible On Line 347
+            Warning - 1 : Skipping Token isVisible On Line 348
+            Warning - 1 : Skipping Token RASPBERRY_PI_B+ On Line 352
+            Warning - 1 : Skipping Token attachedSymbol On Line 830
+            Warning - 1 : Skipping Token TL On Line 853
+            Warning - 1 : Skipping Token TR On Line 877
+            Warning - 1 : Skipping Token BR On Line 897
+            Warning - 1 : Skipping Token BL On Line 903
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*RASPBERRY_PI_B+][Primary] associated with PCAD Component [RASPBERRY_PI_B+] has been renamed to PCB FootPrint [*RASPBERRY_PI_B+_RASPBERRY_PI_B+(Primary)].
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+        EndSection
+    EndSection
+
+    Section : SCH Library - RASPBERRY_PI_B_.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 146
+            Warning - 1 : Skipping Token layerContents On Line 192
+            Warning - 1 : Skipping Token layerContents On Line 201
+            Warning - 1 : Skipping Token layerContents On Line 210
+            Warning - 1 : Skipping Token isVisible On Line 758
+            Warning - 1 : Skipping Token isVisible On Line 759
+            Warning - 1 : Skipping Token isVisible On Line 760
+            Warning - 1 : Skipping Token isVisible On Line 761
+            Warning - 1 : Skipping Token isVisible On Line 762
+            Warning - 1 : Skipping Token isVisible On Line 763
+            Warning - 1 : Skipping Token TL On Line 853
+            Warning - 1 : Skipping Token TR On Line 877
+            Warning - 1 : Skipping Token BR On Line 897
+            Warning - 1 : Skipping Token BL On Line 903
+        EndSection
+
+        Section : Generating SCH Library - RASPBERRY_PI_B_.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*RASPBERRY_PI_B+][Primary] associated with PCAD Component [RASPBERRY_PI_B+] has been renamed to PCB FootPrint [*RASPBERRY_PI_B+_RASPBERRY_PI_B+(Primary)].
+        EndSection
+    EndSection
+EndSection

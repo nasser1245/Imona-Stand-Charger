@@ -1,0 +1,56 @@
+Change Component Footprint: Designator=C1 Old Footprint=6-0805_M New Footprint=*CAP_EEE-FP1C100AR
+Change Component Footprint: Designator=C4 Old Footprint=6-0805_M New Footprint=*CAP_EEE-FP1C100AR
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=4mm Electrolytic-10nf
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=4mm Electrolytic-10nf
+Change Component Comment : Designator=Reg3 Old Comment=MOSFET-P4 New Comment=AMS1117-2.5
+Change Component Comment : Designator=Reg1 Old Comment=MOSFET-P4 New Comment=AMS1117-3.3
+Change Component Comment : Designator=Reg2 Old Comment=MOSFET-P4 New Comment=AMS1117-3.3
+Change Component Comment : Designator=D1 Old Comment=SM120A New Comment=SM330A
+Change Component Comment : Designator=D2 Old Comment=SM120A New Comment=SM330A
+Change Component Comment : Designator=D3 Old Comment=SM120A New Comment=SM330A
+Change Component Comment : Designator=D4 Old Comment=SM120A New Comment=SM330A
+Change Component Comment : Designator=D5 Old Comment=SM120A New Comment=SM330A
+Change Component Comment : Designator=D6 Old Comment=SM120A New Comment=SM330A
+Change Component Comment : Designator=C2 Old Comment=UCL1E681MNL1GS New Comment=100uf
+Change Component Comment : Designator=C3 Old Comment=UCL1E681MNL1GS New Comment=100uf
+Change component parameters: Designator = "C5"; Footprint = "smc"; UniqueID = "\TEDBWHCA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "6-0805_L"; UniqueID = "\EHVTRWCE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "*CAP_EEE-FP1C100AR"; UniqueID = "\PVJCIVBO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "EEEFP1C100AR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEEFP1C100AR/Panasonic%20Electronic%20Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "*CAP_EEE-FP1C100AR"; UniqueID = "\NDEDOSIF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "EEEFP1C100AR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEEFP1C100AR/Panasonic%20Electronic%20Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=D1-A
+Added Pin To Net: NetName=12V Pin=D2-A
+Added Pin To Net: NetName=NetD3_1 Pin=D3-A
+Added Pin To Net: NetName=NetD3_1 Pin=D4-A
+Added Pin To Net: NetName=NetD5_1 Pin=D5-A
+Added Pin To Net: NetName=NetD5_1 Pin=D6-A
+Added Room: Name=shelfControl

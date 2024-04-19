@@ -1,0 +1,16 @@
+from guizero import App
+from guizero import Text, TextBox, PushButton, Slider
+from guizero import Picture, Combo
+def say_my_name():
+	welcome_message.value = my_name.value
+def change_text_size(Slider_Value):
+	welcome_message.size = Slider_Value
+app = App(title="First App")
+welcome_message = Text(app, text = "Welcome", font = "tahoma", color = "red", size=40)
+my_name = TextBox(app, width = 50)
+text_size = Slider(app, command = change_text_size, start = 10, end = 80)
+update_text = PushButton(app, command=say_my_name, text = "Display my name")
+cat_pic = Picture(app, image="cat-pic.jpg")
+film_choise = Combo(app, options = ["Star Wars", "Frozen", "Lion King"], grid=[1,0], align="left")
+
+app.display()

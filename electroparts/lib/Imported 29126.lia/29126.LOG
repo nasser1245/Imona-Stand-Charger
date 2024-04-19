@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : 29126.LibPkg
+
+Section : E:\standCharger\electroparts\lib\29126.lia
+    Section : PCB Library - 29126.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 29126 On Line 119
+            Warning - 1 : Skipping Token attachedSymbol On Line 146
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 29126.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 83
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 97
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 111
+        EndSection
+
+        Section : Generating SCH Library - 29126.SchLib
+        EndSection
+    EndSection
+EndSection

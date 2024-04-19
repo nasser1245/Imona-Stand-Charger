@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=D4-A
+Removed Pin From Net: NetName=NetD5_1 Pin=D6-A
+Removed Pin From Net: NetName=NetD6_2 Pin=D6-C
+Removed Pin From Net: NetName=12V Pin=J6-2
+Removed Pin From Net: NetName=12V Pin=J8-2
+Removed Pin From Net: NetName=12V Pin=J9-2
+Removed Pin From Net: NetName=NetD6_2 Pin=J11-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-A
+Added Pin To Net: NetName=NetD4_2 Pin=D4-A
+Added Pin To Net: NetName=NetD5_1 Pin=D5-A
+Added Pin To Net: NetName=NetD6_2 Pin=D6-A
+Added Pin To Net: NetName=NetD3_1 Pin=J9-2
+Added Pin To Net: NetName=12V Pin=J10-2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetJ6_1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetJ8_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-A
+Added Pin To Net: NetName=NetD1_2 Pin=J6-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-A
+Added Pin To Net: NetName=NetD2_2 Pin=J8-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-A
+Added Pin To Net: NetName=NetD4_1 Pin=J9-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-A
+Added Pin To Net: NetName=NetD6_1 Pin=J11-1
+Added Net: Name=NetD6_1
+Added Room: Name=shelfControl

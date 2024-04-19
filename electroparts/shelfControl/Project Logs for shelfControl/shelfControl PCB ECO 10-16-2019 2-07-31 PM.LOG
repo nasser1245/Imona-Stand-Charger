@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=3.3V Pin=C2-A
+Removed Pin From Net: NetName=GreenLED_GND Pin=C2-C
+Removed Pin From Net: NetName=3.3V Pin=C3-A
+Removed Pin From Net: NetName=GreenLED_GND Pin=C3-C
+Change Component Footprint: Designator=C2 Old Footprint=*CAPAE1030X1350N_UCL1E681MNL1GS(Primary) New Footprint=*CAPAE0607X600N_16SVPC100M(Primary)
+Change Component Footprint: Designator=C3 Old Footprint=*CAPAE1030X1350N_UCL1E681MNL1GS(Primary) New Footprint=*CAPAE0607X600N_16SVPC100M(Primary)
+Change Component Footprint: Designator=C5 Old Footprint=smc New Footprint=*CAPAE0607X600N_16SVPC100M(Primary)
+Change component parameters: Designator = "C2"; Footprint = "*CAPAE0607X600N_16SVPC100M(Primary)"; UniqueID = "\VRVKHSAR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "16SVPC100M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/16SVPC100M/Panasonic%20Electronic%20Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "*CAPAE0607X600N_16SVPC100M(Primary)"; UniqueID = "\BWOVXFFK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "16SVPC100M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/16SVPC100M/Panasonic%20Electronic%20Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "*CAPAE0607X600N_16SVPC100M(Primary)"; UniqueID = "\TCPJBCJN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "16SVPC100M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/16SVPC100M/Panasonic%20Electronic%20Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GreenLED_GND Pin=C2-NEG
+Added Pin To Net: NetName=GreenLED_GND Pin=C3-NEG
+Added Pin To Net: NetName=RedLED_GND Pin=C5-NEG
+Added Pin To Net: NetName=2.5V Pin=C5-POS
+Added Pin To Net: NetName=12V Pin=D1-A
+Added Pin To Net: NetName=12V Pin=D2-A
+Added Pin To Net: NetName=NetD3_1 Pin=D3-A
+Added Pin To Net: NetName=NetD3_1 Pin=D4-A
+Added Pin To Net: NetName=NetD5_1 Pin=D5-A
+Added Pin To Net: NetName=NetD5_1 Pin=D6-A

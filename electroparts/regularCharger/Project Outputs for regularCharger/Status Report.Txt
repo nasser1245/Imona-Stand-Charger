@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [regularCharger.PrjPCB]
+   Generated File[regularCharger.GTL]
+   Generated File[regularCharger.RUL]
+   Generated File[regularCharger.EXTREP]
+   Generated File[regularCharger.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:42:44 PM On 10/21/2019

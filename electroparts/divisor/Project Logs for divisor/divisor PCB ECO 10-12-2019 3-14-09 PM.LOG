@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=P0 Old DesignItemId=Header 13 New DesignItemId=Header 16
+Change Component Footprint: Designator=P0 Old Footprint=HDR1X13 New Footprint=HDR1X16
+Change Component Comment : Designator=P0 Old Comment=Header 13 New Comment=Header 16
+Change Component Description : Designator=P0 Old Description=Header, 13-Pin New Description=Header, 16-Pin
+Added Pin To Net: NetName=0_NC0 Pin=P0-14
+Added Pin To Net: NetName=0_NC1 Pin=P0-15
+Added Pin To Net: NetName=0_NC2 Pin=P0-16

@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : IPD50P04P4L-11.LibPkg
+
+Section : E:\standCharger\electroparts\IPD50P04P4L-11.lia
+    Section : PCB Library - IPD50P04P4L-11.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token IPD50P04P4L-11 On Line 199
+            Warning - 1 : Skipping Token attachedSymbol On Line 282
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - IPD50P04P4L-11.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 179
+            Warning - 1 : Skipping Token layerContents On Line 188
+        EndSection
+
+        Section : Generating SCH Library - IPD50P04P4L-11.SchLib
+        EndSection
+    EndSection
+EndSection

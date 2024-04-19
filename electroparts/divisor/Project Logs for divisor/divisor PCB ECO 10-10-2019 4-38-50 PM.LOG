@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=0_00 Pin=P0-12
+Removed Pin From Net: NetName=GND Pin=P10-2
+Removed Pin From Net: NetName=DS_8 Pin=P10-3
+Removed Pin From Net: NetName=0_00 Pin=SR1-3
+Added Pin To Net: NetName=GND Pin=P10-3
+Added Pin To Net: NetName=0_11 Pin=P0-12
+Added Pin To Net: NetName=0_11 Pin=SR1-3
+Added Net: Name=0_11
+Added Room: Name=divisor

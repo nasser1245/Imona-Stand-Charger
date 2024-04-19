@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : EEEHA1H101UP.LibPkg
+
+Section : E:\standCharger\electroparts\regularCharger\EEEHA1H101UP.lia
+    Section : PCB Library - EEEHA1H101UP.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token EEEHA1H101UP On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 173
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - EEEHA1H101UP.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 97
+            Warning - 1 : Skipping Token layerContents On Line 106
+        EndSection
+
+        Section : Generating SCH Library - EEEHA1H101UP.SchLib
+        EndSection
+    EndSection
+EndSection

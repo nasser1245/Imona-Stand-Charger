@@ -1,0 +1,548 @@
+Protel Design System Design Rule Check
+PCB File : E:\standCharger\electroparts\shelfControl\shelfControl.PcbDoc
+Date     : 11/14/2019
+Time     : 3:33:17 PM
+
+Processing Rule : Clearance Constraint (Gap=1mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C1-1(81.25mm,6.25mm) on Top Layer And Track (81.25mm,2.25mm)(81.25mm,6.25mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C2-POS(81.25mm,18.8mm) on Top Layer And Track (71.75mm,19.77mm)(80.28mm,19.77mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C2-POS(81.25mm,18.8mm) on Top Layer And Track (80.28mm,19.77mm)(81.25mm,18.8mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C2-POS(81.25mm,18.8mm) on Top Layer And Track (81.25mm,18.8mm)(89.25mm,18.8mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C3-NEG(89.25mm,24.2mm) on Top Layer And Text "GreenLED" (80.75mm,26mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C3-POS(89.25mm,18.8mm) on Top Layer And Track (81.25mm,18.8mm)(89.25mm,18.8mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C3-POS(89.25mm,18.8mm) on Top Layer And Track (89.25mm,12.5mm)(89.25mm,18.8mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C4-1(64.5mm,6.25mm) on Top Layer And Track (63.25mm,5.5mm)(64mm,6.25mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C4-1(64.5mm,6.25mm) on Top Layer And Track (64mm,6.25mm)(65mm,6.25mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C5-POS(113mm,17.8mm) on Top Layer And Track (111.9mm,16.9mm)(113mm,18mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad C5-POS(113mm,17.8mm) on Top Layer And Track (111.9mm,8mm)(111.9mm,16.9mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad D1-A(24.5mm,46.64mm) on Top Layer And Track (24.5mm,46.64mm)(28.38mm,46.64mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q11-3(55.625mm,8.5mm) on Top Layer And Track (55.125mm,8.5mm)(56.25mm,8.5mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q11-3(55.625mm,8.5mm) on Top Layer And Track (56.25mm,8.5mm)(57.79mm,10.04mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q1-2(15.25mm,31.27mm) on Top Layer And Track (14.27mm,30.77mm)(15mm,31.5mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q1-2(15.25mm,31.27mm) on Top Layer And Track (6mm,30.77mm)(14.27mm,30.77mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q17-1(26.875mm,9.7mm) on Top Layer And Track (26.875mm,10mm)(26.875mm,12.575mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q17-3(29.125mm,8.75mm) on Top Layer And Track (29.188mm,8.812mm)(30.915mm,10.54mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q2-1(37.34mm,42.22mm) on Top Layer And Track (37.34mm,42.22mm)(41.42mm,42.22mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q3-1(36.84mm,53.22mm) on Top Layer And Track (36.84mm,53.22mm)(36.92mm,53.3mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q3-1(36.84mm,53.22mm) on Top Layer And Track (37.42mm,53.3mm)(41.5mm,53.3mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q5-3(16.125mm,8.5mm) on Top Layer And Track (16.312mm,8.687mm)(17.665mm,10.04mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q8-1(39.875mm,9.45mm) on Top Layer And Track (39mm,10.325mm)(39.663mm,9.663mm) on Top Layer 
+   Violation between Clearance Constraint: (0.249mm < 1mm) Between Pad Q8-1(39.875mm,9.45mm) on Top Layer And Track (39mm,10.325mm)(39mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad Q9-3(71.84mm,56.78mm) on Top Layer And Track (72.2mm,56.8mm)(76.5mm,56.8mm) on Top Layer 
+   Violation between Clearance Constraint: (0.6mm < 1mm) Between Pad R11-1(16.5mm,14.3mm) on Top Layer And Pad R11-2(16.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R11-2(16.5mm,12.7mm) on Top Layer And Track (13mm,12.7mm)(16.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.8mm < 1mm) Between Pad R11-2(16.5mm,12.7mm) on Top Layer And Track (16.5mm,14.3mm)(16.5mm,15.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.6mm < 1mm) Between Pad R13-1(113.5mm,55.8mm) on Top Layer And Pad R13-2(113.5mm,54.2mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R13-2(113.5mm,54.2mm) on Top Layer And Track (113.5mm,51.3mm)(113.5mm,53.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.6mm < 1mm) Between Pad R14-1(13mm,12.7mm) on Top Layer And Pad R14-2(13mm,14.3mm) on Top Layer 
+   Violation between Clearance Constraint: (0.7mm < 1mm) Between Pad R14-2(13mm,14.3mm) on Top Layer And Track (13mm,12.7mm)(13mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.7mm < 1mm) Between Pad R14-2(13mm,14.3mm) on Top Layer And Track (13mm,12.7mm)(16.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.6mm < 1mm) Between Pad R16-1(29.5mm,13.45mm) on Top Layer And Pad R16-2(29.5mm,15.05mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R16-1(29.5mm,13.45mm) on Top Layer And Track (26mm,13.45mm)(29.5mm,13.45mm) on Top Layer 
+   Violation between Clearance Constraint: (0.8mm < 1mm) Between Pad R16-1(29.5mm,13.45mm) on Top Layer And Track (29.5mm,15.05mm)(29.5mm,16mm) on Top Layer 
+   Violation between Clearance Constraint: (0.75mm < 1mm) Between Pad R16-2(29.5mm,15.05mm) on Top Layer And Track (26mm,13.45mm)(29.5mm,13.45mm) on Top Layer 
+   Violation between Clearance Constraint: (0.15mm < 1mm) Between Pad R16-2(29.5mm,15.05mm) on Top Layer And Track (27.75mm,17.75mm)(29.5mm,16mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R16-2(29.5mm,15.05mm) on Top Layer And Track (29.5mm,15.05mm)(29.5mm,16mm) on Top Layer 
+   Violation between Clearance Constraint: (0.6mm < 1mm) Between Pad R19-1(42.5mm,14.3mm) on Top Layer And Pad R19-2(42.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R19-2(42.5mm,12.7mm) on Top Layer And Track (39mm,12.7mm)(42.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.8mm < 1mm) Between Pad R19-2(42.5mm,12.7mm) on Top Layer And Track (42.5mm,14.3mm)(42.5mm,16.75mm) on Top Layer 
+   Violation between Clearance Constraint: (0.75mm < 1mm) Between Pad R2-1(64.8mm,15.5mm) on Top Layer And Track (61.5mm,15.5mm)(63.2mm,15.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.6mm < 1mm) Between Pad R21-1(39mm,12.7mm) on Top Layer And Pad R21-2(39mm,14.3mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R21-1(39mm,12.7mm) on Top Layer And Track (39mm,10.325mm)(39mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R21-1(39mm,12.7mm) on Top Layer And Track (39mm,12.7mm)(42.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.6mm < 1mm) Between Pad R23-1(55.5mm,14.3mm) on Top Layer And Pad R23-2(55.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.85mm < 1mm) Between Pad R23-1(55.5mm,14.3mm) on Top Layer And Track (52mm,12.7mm)(55.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.9mm < 1mm) Between Pad R23-1(55.5mm,14.3mm) on Top Layer And Track (54.75mm,16.75mm)(55.5mm,16mm) on Top Layer 
+   Violation between Clearance Constraint: (0.85mm < 1mm) Between Pad R23-1(55.5mm,14.3mm) on Top Layer And Track (55.5mm,12.7mm)(55.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R23-1(55.5mm,14.3mm) on Top Layer And Track (55.5mm,14.3mm)(55.5mm,16mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R23-2(55.5mm,12.7mm) on Top Layer And Track (52mm,12.7mm)(55.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R23-2(55.5mm,12.7mm) on Top Layer And Track (55.5mm,12.7mm)(55.5mm,12.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.8mm < 1mm) Between Pad R23-2(55.5mm,12.7mm) on Top Layer And Track (55.5mm,14.3mm)(55.5mm,16mm) on Top Layer 
+   Violation between Clearance Constraint: (0.6mm < 1mm) Between Pad R3-1(19.55mm,40.75mm) on Top Layer And Pad R3-2(17.95mm,40.75mm) on Top Layer 
+   Violation between Clearance Constraint: (0.8mm < 1mm) Between Pad R3-1(19.55mm,40.75mm) on Top Layer And Track (15.3mm,40.75mm)(17.95mm,40.75mm) on Top Layer 
+   Violation between Clearance Constraint: (0.8mm < 1mm) Between Pad R3-1(19.55mm,40.75mm) on Top Layer And Track (17.53mm,40.33mm)(17.95mm,40.75mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R3-1(19.55mm,40.75mm) on Top Layer And Track (19.55mm,40.75mm)(19.76mm,40.54mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R3-1(19.55mm,40.75mm) on Top Layer And Track (19.76mm,26mm)(19.76mm,40.54mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R3-2(17.95mm,40.75mm) on Top Layer And Track (15.3mm,40.75mm)(17.95mm,40.75mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R3-2(17.95mm,40.75mm) on Top Layer And Track (17.53mm,38.09mm)(17.53mm,40.33mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R3-2(17.95mm,40.75mm) on Top Layer And Track (17.53mm,40.33mm)(17.95mm,40.75mm) on Top Layer 
+   Violation between Clearance Constraint: (0.8mm < 1mm) Between Pad R3-2(17.95mm,40.75mm) on Top Layer And Track (19.55mm,40.75mm)(19.76mm,40.54mm) on Top Layer 
+   Violation between Clearance Constraint: (0.6mm < 1mm) Between Pad R9-1(41.5mm,46.3mm) on Top Layer And Pad R9-2(41.5mm,44.7mm) on Top Layer 
+   Violation between Clearance Constraint: (0.75mm < 1mm) Between Pad R9-1(41.5mm,46.3mm) on Top Layer And Track (41.5mm,42.3mm)(41.5mm,44.7mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 1mm) Between Pad R9-2(41.5mm,44.7mm) on Top Layer And Track (41.5mm,42.3mm)(41.5mm,44.7mm) on Top Layer 
+Rule Violations :66
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+   Violation between Width Constraint: Track (10.75mm,19mm)(40.25mm,19mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (103.25mm,15.25mm)(104.5mm,16.5mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (103.55mm,5.7mm)(105.85mm,5.7mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (103.98mm,32.98mm)(112.5mm,32.98mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (103mm,6.25mm)(103.55mm,5.7mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (104.5mm,16.5mm)(104.5mm,16.5mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (104.5mm,16.5mm)(105.5mm,17.5mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (105.25mm,36mm)(111.25mm,42mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (105.5mm,17.5mm)(105.5mm,18.5mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (107mm,58.5mm)(111.25mm,54.25mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (108.34mm,41.22mm)(113.58mm,41.22mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (109.92mm,51.3mm)(113.5mm,51.3mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (111.25mm,42mm)(111.25mm,54.25mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (111.9mm,16.9mm)(113mm,18mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (111.9mm,8mm)(111.9mm,16.9mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (112.5mm,29.02mm)(116.23mm,29.02mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (113.58mm,41.22mm)(114mm,40.8mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (113.5mm,49.7mm)(115.3mm,49.7mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (113.5mm,51.3mm)(113.5mm,53.7mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (113mm,37mm)(114mm,38mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (114mm,38mm)(114mm,39.2mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (114mm,40.8mm)(114mm,44.2mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (115.25mm,35.5mm)(116.5mm,36.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (115.3mm,49.7mm)(116.5mm,48.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (116.23mm,29.02mm)(116.5mm,28.75mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (116.5mm,18mm)(116.5mm,28.75mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (116.5mm,36.75mm)(116.5mm,48.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (11mm,52.5mm)(11mm,56.98mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (11mm,52.5mm)(15.77mm,47.73mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (11mm,56.98mm)(11mm,57mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (11mm,56.98mm)(16.5mm,56.98mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (12.14mm,21.61mm)(12.14mm,26mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (12.14mm,21.61mm)(13.5mm,20.25mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (12.97mm,38.09mm)(12.97mm,40.72mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (12.97mm,40.72mm)(13mm,40.75mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13.25mm,17.75mm)(27.75mm,17.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13.5mm,20.25mm)(41.25mm,20.25mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13.875mm,10.075mm)(16.5mm,12.7mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13.875mm,10mm)(13.875mm,10.075mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13mm,12.7mm)(13mm,12.7mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13mm,12.7mm)(16.5mm,12.7mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13mm,40.75mm)(13.7mm,40.75mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (14.27mm,30.77mm)(15mm,31.5mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (14.68mm,23.32mm)(14.68mm,26mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (14.68mm,23.32mm)(16.25mm,21.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.3mm,40.75mm)(17.95mm,40.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.5mm,16.5mm)(16.5mm,15.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.77mm,47.73mm)(16.5mm,47.73mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.25mm,21.75mm)(42.25mm,21.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.312mm,8.687mm)(17.665mm,10.04mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.5mm,14.3mm)(16.5mm,15.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.5mm,43.77mm)(21.48mm,43.77mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.5mm,56.98mm)(31.48mm,56.98mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.22mm,24.03mm)(17.22mm,26mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.22mm,24.03mm)(18mm,23.25mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.53mm,38.09mm)(17.53mm,40.33mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.53mm,40.33mm)(17.95mm,40.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.665mm,10.04mm)(20mm,10.04mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17mm,53.02mm)(23.48mm,53.02mm) on Top Layer Actual Width = 2.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18mm,23.25mm)(50.5mm,23.25mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (19.55mm,40.75mm)(19.76mm,40.54mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (19.76mm,26mm)(19.76mm,40.54mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20mm,5.5mm)(20mm,7.5mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (21.48mm,43.77mm)(22.89mm,42.36mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (22.3mm,26mm)(22.3mm,35.05mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (22.3mm,35.05mm)(25.75mm,38.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (22.89mm,42.36mm)(24.5mm,42.36mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.5mm,46.64mm)(28.38mm,46.64mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.5mm,57mm)(29.5mm,57mm) on Top Layer Actual Width = 2.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.84mm,26mm)(24.84mm,34.34mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.84mm,34.34mm)(27.5mm,37mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (25.75mm,38.5mm)(40.5mm,38.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (26.875mm,10mm)(26.875mm,12.575mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (26mm,13.45mm)(26.875mm,12.575mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (26mm,13.45mm)(29.5mm,13.45mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (27.38mm,32.13mm)(27.38mm,26mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (27.38mm,32.13mm)(30.75mm,35.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (27.5mm,37mm)(42.5mm,37mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (27.75mm,17.75mm)(29.5mm,16mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (28.38mm,46.64mm)(31mm,44.02mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.02mm,42.02mm)(29.5mm,42.5mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.188mm,8.812mm)(30.915mm,10.54mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.5mm,15.05mm)(29.5mm,16mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.92mm,26mm)(29.92mm,30.42mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.92mm,30.42mm)(33.75mm,34.25mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (30.02mm,54.52mm)(30.02mm,55.5mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (30.75mm,35.5mm)(74mm,35.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (30.915mm,10.54mm)(32.75mm,10.54mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (31.48mm,56.98mm)(33mm,58.5mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (32.46mm,26mm)(32.46mm,29.71mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (32.46mm,29.71mm)(35.25mm,32.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (32.75mm,5.5mm)(32.75mm,8mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (33.75mm,34.25mm)(75.75mm,34.25mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (33mm,58.5mm)(107mm,58.5mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (35.25mm,32.5mm)(84.5mm,32.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (35mm,26mm)(35mm,29.25mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (35mm,29.25mm)(36.75mm,31mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (36.75mm,31mm)(85.5mm,31mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (36.84mm,53.22mm)(36.92mm,53.3mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (37.34mm,42.22mm)(41.42mm,42.22mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (37.42mm,53.3mm)(41.5mm,53.3mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (39mm,10.325mm)(39.663mm,9.663mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (39mm,10.325mm)(39mm,12.7mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (39mm,12.7mm)(42.5mm,12.7mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (4.52mm,17.48mm)(4.52mm,26mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (4.52mm,17.48mm)(5.5mm,16.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (40.25mm,19mm)(42.5mm,16.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (40.5mm,38.5mm)(41.5mm,39.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (40.75mm,25mm)(40.75mm,29mm) on Bottom Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (40.75mm,25mm)(40.75mm,29mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (41.25mm,20.25mm)(44.75mm,16.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (41.42mm,42.22mm)(41.5mm,42.3mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (41.5mm,39.5mm)(41.5mm,40.7mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (41.5mm,42.3mm)(41.5mm,44.7mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (41.5mm,51.7mm)(43.55mm,51.7mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (41.5mm,53.3mm)(41.5mm,55.7mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (42.125mm,8.5mm)(43mm,8.5mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (42.25mm,21.75mm)(46mm,18mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (42.5mm,14.3mm)(42.5mm,16.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (42.5mm,37mm)(44.25mm,38.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (43.29mm,25mm)(43.29mm,29mm) on Bottom Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (43.29mm,25mm)(43.29mm,29mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (43.55mm,51.7mm)(44.25mm,51mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (43mm,8.5mm)(44.54mm,10.04mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (44.25mm,38.75mm)(44.25mm,51mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (44.54mm,10.04mm)(46mm,10.04mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (44.5mm,5.25mm)(45.75mm,6.5mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (44.5mm,5.25mm)(58mm,5.25mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (44.75mm,16.75mm)(54.75mm,16.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (45.75mm,6.5mm)(45.75mm,7.5mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (45.83mm,25mm)(45.83mm,28.92mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (45.83mm,25mm)(45.83mm,29mm) on Bottom Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (46mm,18mm)(57mm,18mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (48.37mm,25.37mm)(48.37mm,29mm) on Bottom Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (48.37mm,25mm)(48.37mm,29mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (5.5mm,16.5mm)(15.5mm,16.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (50.5mm,23.25mm)(51mm,23.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (51mm,23.75mm)(51mm,28.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (51mm,28.5mm)(52mm,29.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (51mm,51.5mm)(58.64mm,51.5mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (51mm,55.48mm)(51mm,58.5mm) on Bottom Layer Actual Width = 2.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (52.11mm,45.89mm)(59mm,45.89mm) on Top Layer Actual Width = 2.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (52.875mm,9.45mm)(52.875mm,11.825mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (52mm,12.7mm)(52.875mm,11.825mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (52mm,12.7mm)(55.5mm,12.7mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (52mm,29.5mm)(53.75mm,29.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (52mm,42.02mm)(56.02mm,38mm) on Top Layer Actual Width = 2.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (52mm,42mm)(57.25mm,42mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (53.75mm,29.5mm)(91.25mm,29.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (54.75mm,16.75mm)(55.5mm,16mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (55.125mm,8.5mm)(56.25mm,8.5mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (55.5mm,12.7mm)(55.5mm,12.7mm) on Top Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (55.5mm,14.3mm)(55.5mm,16mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (56.02mm,23.5mm)(56.02mm,25.02mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (56.02mm,25.02mm)(58.5mm,27.5mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (56.02mm,38mm)(61.25mm,38mm) on Top Layer Actual Width = 2.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (56.25mm,8.5mm)(57.79mm,10.04mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (57.25mm,42mm)(61.25mm,38mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (57.79mm,10.04mm)(59mm,10.04mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (57mm,18mm)(59.5mm,15.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (58.5mm,27.5mm)(70.5mm,27.5mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (58.5mm,51.5mm)(59mm,51mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (58.64mm,51.5mm)(59mm,51.86mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (58.75mm,6mm)(58.75mm,7.5mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (58mm,5.25mm)(58.75mm,6mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (58mm,5.25mm)(63mm,5.25mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (59.14mm,56mm)(64.5mm,56mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (59.5mm,15.5mm)(59.7mm,15.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (59.64mm,42mm)(64mm,42mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (59mm,56.14mm)(59.14mm,56mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (6.465mm,7.285mm)(6.465mm,7.517mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (6.465mm,7.285mm)(8.5mm,5.25mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (6.5mm,56.98mm)(11mm,56.98mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (6.5mm,56.98mm)(16.5mm,56.98mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.25mm,38mm)(80mm,38mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.5mm,15.5mm)(61.5mm,17.5mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.5mm,15.5mm)(63.2mm,15.5mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.5mm,17.5mm)(62.84mm,18.84mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (62.84mm,18.84mm)(62.84mm,19.72mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (63.25mm,5.5mm)(64mm,6.25mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (64mm,6.25mm)(65mm,6.25mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (65.25mm,5.7mm)(68.85mm,5.7mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (68.75mm,4mm)(68.75mm,5.6mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (68.75mm,4mm)(70.75mm,2mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (6mm,30.77mm)(14.27mm,30.77mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (6mm,34.73mm)(6mm,40.27mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (6mm,44.23mm)(9.52mm,44.23mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (7.06mm,19.44mm)(7.06mm,26mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (7.06mm,19.44mm)(8.75mm,17.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (70.5mm,27.5mm)(71.75mm,26.25mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (70.75mm,2mm)(78.75mm,2mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (71.5mm,13.65mm)(71.5mm,19.52mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (71.5mm,13.65mm)(74mm,11.15mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (71.5mm,19.52mm)(71.75mm,19.77mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (71.75mm,19.77mm)(80.28mm,19.77mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (71.75mm,24.73mm)(71.75mm,26.25mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (71.84mm,41.72mm)(75.72mm,41.72mm) on Top Layer Actual Width = 0.8mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (71.84mm,52.22mm)(76.42mm,52.22mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (72.2mm,56.8mm)(76.5mm,56.8mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (74mm,35.5mm)(76mm,37.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (75.72mm,41.72mm)(76mm,42mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (75.75mm,34.25mm)(80.25mm,38.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (76.3mm,1.95mm)(76.3mm,5.35mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (76.42mm,52.22mm)(76.5mm,52.3mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (76.5mm,50.7mm)(77.3mm,50.7mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (76.5mm,52.3mm)(76.5mm,55.2mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (76mm,37.5mm)(76mm,40.2mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (76mm,42mm)(76mm,45.2mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (77.3mm,50.7mm)(80.25mm,47.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (78.75mm,2mm)(95mm,2mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (8.5mm,5.25mm)(44.5mm,5.25mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (8.75mm,17.75mm)(13.25mm,17.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (80.25mm,38.75mm)(80.25mm,47.75mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (80.28mm,19.77mm)(81.25mm,18.8mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (80mm,38mm)(82mm,36mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (81.25mm,18.8mm)(89.25mm,18.8mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (81.25mm,2.25mm)(81.25mm,6.25mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (82mm,36mm)(105.25mm,36mm) on Bottom Layer Actual Width = 3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (82mm,36mm)(83.25mm,36mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (83.25mm,36mm)(88mm,40.75mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (83.98mm,54.98mm)(87mm,54.98mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (83mm,47.5mm)(83mm,54mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (83mm,47.5mm)(84.5mm,46mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (83mm,54mm)(83.98mm,54.98mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (84.5mm,32.5mm)(89mm,37mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (84.5mm,46mm)(88mm,46mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (85.5mm,31mm)(90mm,35.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (87mm,51.02mm)(87.48mm,51.5mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (87mm,51.02mm)(95.48mm,51.02mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (88.75mm,10.9mm)(88.75mm,12mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (88.75mm,12mm)(89.25mm,12.5mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (88mm,40.75mm)(88mm,42.02mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (89.25mm,12.5mm)(89.25mm,18.8mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (89mm,37mm)(113mm,37mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (9.52mm,44.23mm)(13mm,40.75mm) on Top Layer Actual Width = 1.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (9.6mm,20.15mm)(10.75mm,19mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (9.6mm,20.15mm)(9.6mm,26mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (90mm,35.5mm)(115.25mm,35.5mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (91.25mm,29.5mm)(94.5mm,26.25mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (91mm,2mm)(91mm,4.75mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (94.5mm,16mm)(94.5mm,26.25mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (94.5mm,16mm)(95.5mm,15mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (95.48mm,51.02mm)(95.5mm,51mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (95.5mm,15mm)(97.95mm,15mm) on Top Layer Actual Width = 0.6mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (95.5mm,41mm)(96mm,41.5mm) on Top Layer Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (95.5mm,45.14mm)(95.5mm,51mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (95.5mm,55.5mm)(101mm,55.5mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (95mm,2mm)(99.25mm,6.25mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (96mm,41.5mm)(101mm,41.5mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (99.25mm,6.25mm)(103mm,6.25mm) on Top Layer Actual Width = 1.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (99.55mm,15mm)(105.45mm,15mm) on Top Layer Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (99mm,21.25mm)(99mm,28mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (99mm,28mm)(103.98mm,32.98mm) on Top Layer Actual Width = 2mm, Target Width = 0.254mm
+Rule Violations :253
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-18(3mm,3mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-19(3.5mm,61.5mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-20(115mm,60mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-22(116.5mm,2.5mm) on Multi-Layer Actual Hole Size = 3mm
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.002mm < 0.254mm) Between Arc (113mm,20.492mm) on Top Overlay And Pad C5-NEG(113mm,23.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.002mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.054mm < 0.254mm) Between Arc (113mm,20.492mm) on Top Overlay And Pad C5-POS(113mm,17.8mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.054mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.054mm < 0.254mm) Between Arc (113mm,20.508mm) on Top Overlay And Pad C5-NEG(113mm,23.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.054mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.002mm < 0.254mm) Between Arc (113mm,20.508mm) on Top Overlay And Pad C5-POS(113mm,17.8mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.002mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Arc (24.5mm,40.745mm) on Top Overlay And Pad D1-C(24.5mm,42.36mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Arc (24mm,51.245mm) on Top Overlay And Pad D2-C(24mm,52.86mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Arc (59mm,47.505mm) on Top Overlay And Pad D6-C(59mm,45.89mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Arc (59mm,50.245mm) on Top Overlay And Pad D5-C(59mm,51.86mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Arc (64.5mm,4.55mm) on Top Overlay And Pad C4-1(64.5mm,6.25mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.002mm < 0.254mm) Between Arc (81.25mm,21.492mm) on Top Overlay And Pad C2-NEG(81.25mm,24.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.002mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.054mm < 0.254mm) Between Arc (81.25mm,21.492mm) on Top Overlay And Pad C2-POS(81.25mm,18.8mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.054mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.054mm < 0.254mm) Between Arc (81.25mm,21.508mm) on Top Overlay And Pad C2-NEG(81.25mm,24.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.054mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.002mm < 0.254mm) Between Arc (81.25mm,21.508mm) on Top Overlay And Pad C2-POS(81.25mm,18.8mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.002mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Arc (81.25mm,4.55mm) on Top Overlay And Pad C1-1(81.25mm,6.25mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.002mm < 0.254mm) Between Arc (89.25mm,21.492mm) on Top Overlay And Pad C3-NEG(89.25mm,24.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.002mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.054mm < 0.254mm) Between Arc (89.25mm,21.492mm) on Top Overlay And Pad C3-POS(89.25mm,18.8mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.054mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.054mm < 0.254mm) Between Arc (89.25mm,21.508mm) on Top Overlay And Pad C3-NEG(89.25mm,24.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.054mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.002mm < 0.254mm) Between Arc (89.25mm,21.508mm) on Top Overlay And Pad C3-POS(89.25mm,18.8mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.002mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Arc (95.5mm,47.505mm) on Top Overlay And Pad D4-C(95.5mm,45.89mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Arc (95.5mm,49.745mm) on Top Overlay And Pad D3-C(95.5mm,51.36mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Arc (99.5mm,4.55mm) on Top Overlay And Pad C6-1(99.5mm,6.25mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C2-NEG(81.25mm,24.2mm) on Top Layer And Track (77.95mm,24.8mm)(80.15mm,24.8mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C2-NEG(81.25mm,24.2mm) on Top Layer And Track (82.35mm,24.8mm)(84.55mm,24.8mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C2-POS(81.25mm,18.8mm) on Top Layer And Track (78.85mm,18.2mm)(80.15mm,18.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C2-POS(81.25mm,18.8mm) on Top Layer And Track (82.35mm,18.2mm)(83.65mm,18.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C3-NEG(89.25mm,24.2mm) on Top Layer And Track (85.95mm,24.8mm)(88.15mm,24.8mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C3-NEG(89.25mm,24.2mm) on Top Layer And Track (90.35mm,24.8mm)(92.55mm,24.8mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C3-POS(89.25mm,18.8mm) on Top Layer And Track (86.85mm,18.2mm)(88.15mm,18.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C3-POS(89.25mm,18.8mm) on Top Layer And Track (90.35mm,18.2mm)(91.65mm,18.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C4-2(64.5mm,9.75mm) on Top Layer And Text "C4" (63.459mm,11.008mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C5-NEG(113mm,23.2mm) on Top Layer And Track (109.7mm,23.8mm)(111.9mm,23.8mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C5-NEG(113mm,23.2mm) on Top Layer And Track (114.1mm,23.8mm)(116.3mm,23.8mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C5-POS(113mm,17.8mm) on Top Layer And Track (110.6mm,17.2mm)(111.9mm,17.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.254mm) Between Pad C5-POS(113mm,17.8mm) on Top Layer And Track (114.1mm,17.2mm)(115.4mm,17.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.068mm < 0.254mm) Between Pad D3-C(95.5mm,51.36mm) on Top Layer And Text "D4" (94.005mm,48.477mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.068mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad J10-1(87mm,51.02mm) on Multi-Layer And Text "J9" (83.185mm,48.977mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.08mm < 0.254mm) Between Pad J12-1(51mm,51.52mm) on Multi-Layer And Text "J11" (47.189mm,48.977mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.08mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.069mm < 0.254mm) Between Pad J5-1(6mm,30.77mm) on Multi-Layer And Text "P1" (3.393mm,28.14mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.069mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad J6-1(16.5mm,43.77mm) on Multi-Layer And Text "R3" (17.567mm,42.313mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad J6-1(16.5mm,43.77mm) on Multi-Layer And Text "R5" (13.303mm,42.313mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad M1-2(56.02mm,22.5mm) on Top Layer And Track (54.3mm,19.17mm)(54.3mm,19.4mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad M1-2(56.02mm,22.5mm) on Top Layer And Track (54.3mm,25.6mm)(54.3mm,25.83mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.031mm < 0.254mm) Between Pad M2-1(105.84mm,18.72mm) on Top Layer And Text "R6" (105.063mm,16.568mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.031mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad M2-2(99.02mm,21mm) on Top Layer And Text "R4" (97.544mm,16.562mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad M2-2(99.02mm,21mm) on Top Layer And Track (97.3mm,17.67mm)(97.3mm,17.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad M2-2(99.02mm,21mm) on Top Layer And Track (97.3mm,24.1mm)(97.3mm,24.33mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad P5-1(40.75mm,29.5mm) on Multi-Layer And Text "P7" (39.639mm,27.145mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q10-2(65.02mm,44mm) on Top Layer And Track (63.3mm,40.67mm)(63.3mm,40.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q10-2(65.02mm,44mm) on Top Layer And Track (63.3mm,47.1mm)(63.3mm,47.33mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q1-2(15.25mm,31.27mm) on Top Layer And Track (11.92mm,29.55mm)(12.15mm,29.55mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q1-2(15.25mm,31.27mm) on Top Layer And Track (18.35mm,29.55mm)(18.58mm,29.55mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.099mm < 0.254mm) Between Pad Q17-1(26.875mm,9.7mm) on Top Layer And Text "R16" (29mm,11.75mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.099mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q2-2(30.52mm,44.5mm) on Top Layer And Track (28.8mm,41.17mm)(28.8mm,41.4mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q2-2(30.52mm,44.5mm) on Top Layer And Track (28.8mm,47.6mm)(28.8mm,47.83mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q3-2(30.02mm,55.5mm) on Top Layer And Track (28.3mm,52.17mm)(28.3mm,52.4mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q3-2(30.02mm,55.5mm) on Top Layer And Track (28.3mm,58.6mm)(28.3mm,58.83mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q4-2(102.02mm,53.5mm) on Top Layer And Track (100.3mm,50.17mm)(100.3mm,50.4mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q4-2(102.02mm,53.5mm) on Top Layer And Track (100.3mm,56.6mm)(100.3mm,56.83mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q6-2(101.52mm,43.5mm) on Top Layer And Track (99.8mm,40.17mm)(99.8mm,40.4mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q6-2(101.52mm,43.5mm) on Top Layer And Track (99.8mm,46.6mm)(99.8mm,46.83mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q9-2(65.02mm,54.5mm) on Top Layer And Track (63.3mm,51.17mm)(63.3mm,51.4mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.254mm) Between Pad Q9-2(65.02mm,54.5mm) on Top Layer And Track (63.3mm,57.6mm)(63.3mm,57.83mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R10-1(41.5mm,57.3mm) on Top Layer And Track (40.95mm,56.5mm)(42.05mm,56.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R10-2(41.5mm,55.7mm) on Top Layer And Text "R8" (40.951mm,54.717mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R10-2(41.5mm,55.7mm) on Top Layer And Track (40.95mm,56.5mm)(42.05mm,56.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.061mm < 0.254mm) Between Pad R1-1(59.7mm,15.5mm) on Top Layer And Text "R23" (54.95mm,15.707mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.061mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R1-1(59.7mm,15.5mm) on Top Layer And Track (60.5mm,14.95mm)(60.5mm,16.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R11-1(16.5mm,14.3mm) on Top Layer And Track (15.95mm,13.5mm)(17.05mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R11-2(16.5mm,12.7mm) on Top Layer And Text "Q5" (16mm,12.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R11-2(16.5mm,12.7mm) on Top Layer And Track (15.95mm,13.5mm)(17.05mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R1-2(61.3mm,15.5mm) on Top Layer And Track (60.5mm,14.95mm)(60.5mm,16.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R12-1(113.5mm,49.7mm) on Top Layer And Track (112.95mm,50.5mm)(114.05mm,50.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R12-2(113.5mm,51.3mm) on Top Layer And Track (112.95mm,50.5mm)(114.05mm,50.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R13-1(113.5mm,55.8mm) on Top Layer And Track (112.95mm,55mm)(114.05mm,55mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R13-2(113.5mm,54.2mm) on Top Layer And Text "R12" (112.954mm,52.722mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R13-2(113.5mm,54.2mm) on Top Layer And Track (112.95mm,55mm)(114.05mm,55mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R14-1(13mm,12.7mm) on Top Layer And Text "Q5" (16mm,12.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R14-1(13mm,12.7mm) on Top Layer And Track (12.45mm,13.5mm)(13.55mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R14-2(13mm,14.3mm) on Top Layer And Track (12.45mm,13.5mm)(13.55mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R15-1(114mm,39.2mm) on Top Layer And Track (113.45mm,40mm)(114.55mm,40mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R15-2(114mm,40.8mm) on Top Layer And Track (113.45mm,40mm)(114.55mm,40mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R16-1(29.5mm,13.45mm) on Top Layer And Text "Q17" (26.264mm,11.557mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R16-1(29.5mm,13.45mm) on Top Layer And Track (28.95mm,14.25mm)(30.05mm,14.25mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R16-2(29.5mm,15.05mm) on Top Layer And Track (28.95mm,14.25mm)(30.05mm,14.25mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R17-1(114mm,45.8mm) on Top Layer And Track (113.45mm,45mm)(114.55mm,45mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R17-2(114mm,44.2mm) on Top Layer And Text "R15" (113.465mm,42.209mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R17-2(114mm,44.2mm) on Top Layer And Track (113.45mm,45mm)(114.55mm,45mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R18-1(26mm,15.05mm) on Top Layer And Track (25.45mm,14.25mm)(26.55mm,14.25mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R18-2(26mm,13.45mm) on Top Layer And Text "Q17" (26.264mm,11.557mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R18-2(26mm,13.45mm) on Top Layer And Track (25.45mm,14.25mm)(26.55mm,14.25mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R19-1(42.5mm,14.3mm) on Top Layer And Track (41.95mm,13.5mm)(43.05mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R19-2(42.5mm,12.7mm) on Top Layer And Text "Q8" (39.243mm,11.303mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R19-2(42.5mm,12.7mm) on Top Layer And Track (41.95mm,13.5mm)(43.05mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R20-1(76.5mm,50.7mm) on Top Layer And Track (75.95mm,51.5mm)(77.05mm,51.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R20-2(76.5mm,52.3mm) on Top Layer And Track (75.95mm,51.5mm)(77.05mm,51.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R2-1(64.8mm,15.5mm) on Top Layer And Track (64mm,14.95mm)(64mm,16.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R21-1(39mm,12.7mm) on Top Layer And Text "Q8" (39.243mm,11.303mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R21-1(39mm,12.7mm) on Top Layer And Track (38.45mm,13.5mm)(39.55mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R21-2(39mm,14.3mm) on Top Layer And Track (38.45mm,13.5mm)(39.55mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R2-2(63.2mm,15.5mm) on Top Layer And Track (64mm,14.95mm)(64mm,16.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R22-1(76.5mm,56.8mm) on Top Layer And Track (75.95mm,56mm)(77.05mm,56mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R22-2(76.5mm,55.2mm) on Top Layer And Text "R20" (75.954mm,53.722mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R22-2(76.5mm,55.2mm) on Top Layer And Track (75.95mm,56mm)(77.05mm,56mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R23-1(55.5mm,14.3mm) on Top Layer And Track (54.95mm,13.5mm)(56.05mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R23-2(55.5mm,12.7mm) on Top Layer And Text "Q11" (52.748mm,11.303mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R23-2(55.5mm,12.7mm) on Top Layer And Track (54.95mm,13.5mm)(56.05mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R24-1(76mm,40.2mm) on Top Layer And Track (75.45mm,41mm)(76.55mm,41mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R24-2(76mm,41.8mm) on Top Layer And Track (75.45mm,41mm)(76.55mm,41mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R25-1(52mm,12.7mm) on Top Layer And Text "Q11" (52.748mm,11.303mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R25-1(52mm,12.7mm) on Top Layer And Track (51.45mm,13.5mm)(52.55mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R25-2(52mm,14.3mm) on Top Layer And Track (51.45mm,13.5mm)(52.55mm,13.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R26-1(76mm,46.8mm) on Top Layer And Track (75.45mm,46mm)(76.55mm,46mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R26-2(76mm,45.2mm) on Top Layer And Text "R24" (75.454mm,43.222mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R26-2(76mm,45.2mm) on Top Layer And Track (75.45mm,46mm)(76.55mm,46mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R3-1(19.55mm,40.75mm) on Top Layer And Track (18.75mm,40.2mm)(18.75mm,41.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R3-2(17.95mm,40.75mm) on Top Layer And Track (18.75mm,40.2mm)(18.75mm,41.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R4-1(97.95mm,15mm) on Top Layer And Track (98.75mm,14.45mm)(98.75mm,15.55mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R4-2(99.55mm,15mm) on Top Layer And Track (98.75mm,14.45mm)(98.75mm,15.55mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R5-1(13.7mm,40.75mm) on Top Layer And Text "Q1" (11.893mm,40.392mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R5-1(13.7mm,40.75mm) on Top Layer And Track (14.5mm,40.2mm)(14.5mm,41.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R5-2(15.3mm,40.75mm) on Top Layer And Track (14.5mm,40.2mm)(14.5mm,41.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R6-1(107.05mm,15mm) on Top Layer And Track (106.25mm,14.45mm)(106.25mm,15.55mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R6-2(105.45mm,15mm) on Top Layer And Text "Reg3" (104.847mm,12.915mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R6-2(105.45mm,15mm) on Top Layer And Track (106.25mm,14.45mm)(106.25mm,15.55mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R7-1(41.5mm,40.7mm) on Top Layer And Track (40.95mm,41.5mm)(42.05mm,41.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R7-2(41.5mm,42.3mm) on Top Layer And Track (40.95mm,41.5mm)(42.05mm,41.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R8-1(41.5mm,51.7mm) on Top Layer And Track (40.95mm,52.5mm)(42.05mm,52.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R8-2(41.5mm,53.3mm) on Top Layer And Track (40.95mm,52.5mm)(42.05mm,52.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R9-1(41.5mm,46.3mm) on Top Layer And Track (40.95mm,45.5mm)(42.05mm,45.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad R9-2(41.5mm,44.7mm) on Top Layer And Text "R7" (40.962mm,43.701mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad R9-2(41.5mm,44.7mm) on Top Layer And Track (40.95mm,45.5mm)(42.05mm,45.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg1-1(71.7mm,5.35mm) on Top Layer And Track (70.65mm,6.85mm)(77.35mm,6.85mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg1-2(74mm,5.35mm) on Top Layer And Track (70.65mm,6.85mm)(77.35mm,6.85mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg1-3(76.3mm,5.35mm) on Top Layer And Track (70.65mm,6.85mm)(77.35mm,6.85mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg1-4(74mm,11.15mm) on Top Layer And Track (70.65mm,9.65mm)(77.35mm,9.65mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg2-1(86.45mm,5.1mm) on Top Layer And Track (85.4mm,6.6mm)(92.1mm,6.6mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg2-2(88.75mm,5.1mm) on Top Layer And Track (85.4mm,6.6mm)(92.1mm,6.6mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg2-3(91.05mm,5.1mm) on Top Layer And Track (85.4mm,6.6mm)(92.1mm,6.6mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg2-4(88.75mm,10.9mm) on Top Layer And Track (85.4mm,9.4mm)(92.1mm,9.4mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg3-1(106.1mm,10.3mm) on Top Layer And Track (107.6mm,4.65mm)(107.6mm,11.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg3-2(106.1mm,8mm) on Top Layer And Track (107.6mm,4.65mm)(107.6mm,11.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg3-3(106.1mm,5.7mm) on Top Layer And Track (107.6mm,4.65mm)(107.6mm,11.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad Reg3-4(111.9mm,8mm) on Top Layer And Track (110.4mm,4.65mm)(110.4mm,11.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+Rule Violations :143
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Arc (105.8mm,17.6mm) on Top Overlay And Text "R6" (105.063mm,16.568mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Arc (26.875mm,10.55mm) on Top Overlay And Text "R16" (29mm,11.75mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.157mm < 0.254mm) Between Arc (62.8mm,19.1mm) on Top Overlay And Text "R2" (62.814mm,17.053mm) on Top Overlay Silk Text to Silk Clearance [0.157mm]
+   Violation between Silk To Silk Clearance Constraint: (0.052mm < 0.254mm) Between Arc (95.5mm,49.745mm) on Top Overlay And Text "D4" (94.005mm,48.477mm) on Top Overlay Silk Text to Silk Clearance [0.052mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "C5" (109.856mm,25.805mm) on Top Overlay And Track (107.7mm,27.07mm)(116.2mm,27.07mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.166mm < 0.254mm) Between Text "J11" (47.189mm,48.977mm) on Top Overlay And Track (47.3mm,49.57mm)(47.3mm,57.43mm) on Top Overlay Silk Text to Silk Clearance [0.166mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J11" (47.189mm,48.977mm) on Top Overlay And Track (47.3mm,49.57mm)(55.8mm,49.57mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J5" (1.356mm,37.727mm) on Top Overlay And Track (2.3mm,38.32mm)(10.8mm,38.32mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J5" (1.356mm,37.727mm) on Top Overlay And Track (2.3mm,38.32mm)(2.3mm,46.18mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J6" (11.852mm,50.718mm) on Top Overlay And Track (12.8mm,51.07mm)(12.8mm,58.93mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J6" (11.852mm,50.718mm) on Top Overlay And Track (12.8mm,51.07mm)(21.3mm,51.07mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J9" (83.185mm,48.977mm) on Top Overlay And Track (83.3mm,49.07mm)(83.3mm,56.93mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J9" (83.185mm,48.977mm) on Top Overlay And Track (83.3mm,49.07mm)(91.8mm,49.07mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "P1" (3.393mm,28.14mm) on Top Overlay And Track (2.3mm,28.82mm)(10.8mm,28.82mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "P7" (39.639mm,27.145mm) on Top Overlay And Track (39.48mm,28.23mm)(39.48mm,30.77mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "P7" (39.639mm,27.145mm) on Top Overlay And Track (39.48mm,28.23mm)(49.64mm,28.23mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "Q1" (11.893mm,40.392mm) on Top Overlay And Track (12.8mm,41.82mm)(12.8mm,49.68mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "Q1" (11.893mm,40.392mm) on Top Overlay And Track (12.8mm,41.82mm)(21.3mm,41.82mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "Q17" (26.264mm,11.557mm) on Top Overlay And Text "R16" (29mm,11.75mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.04mm < 0.254mm) Between Text "R1" (59.294mm,17.062mm) on Top Overlay And Text "R23" (54.95mm,15.707mm) on Top Overlay Silk Text to Silk Clearance [0.04mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R16" (29mm,11.75mm) on Top Overlay And Track (27.8mm,10.25mm)(28.7mm,10.25mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R16" (29mm,11.75mm) on Top Overlay And Track (28.7mm,9.45mm)(28.7mm,10.25mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R23" (54.95mm,15.707mm) on Top Overlay And Text "R25" (51.444mm,15.707mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R4" (97.544mm,16.562mm) on Top Overlay And Track (97.3mm,17.67mm)(103.52mm,17.67mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.053mm < 0.254mm) Between Text "R4" (97.544mm,16.562mm) on Top Overlay And Track (97.3mm,17.67mm)(97.3mm,17.9mm) on Top Overlay Silk Text to Silk Clearance [0.053mm]
+   Violation between Silk To Silk Clearance Constraint: (0.048mm < 0.254mm) Between Text "R7" (40.962mm,43.701mm) on Top Overlay And Track (40.95mm,45.5mm)(42.05mm,45.5mm) on Top Overlay Silk Text to Silk Clearance [0.048mm]
+   Violation between Silk To Silk Clearance Constraint: (0.033mm < 0.254mm) Between Text "R8" (40.951mm,54.717mm) on Top Overlay And Track (40.95mm,56.5mm)(42.05mm,56.5mm) on Top Overlay Silk Text to Silk Clearance [0.033mm]
+   Violation between Silk To Silk Clearance Constraint: (0.243mm < 0.254mm) Between Text "Reg3" (104.847mm,12.915mm) on Top Overlay And Track (106.25mm,14.45mm)(106.25mm,15.55mm) on Top Overlay Silk Text to Silk Clearance [0.243mm]
+Rule Violations :28
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (58mm,5.25mm)(63mm,5.25mm) on Top Layer 
+   Violation between Net Antennae: Track (59.14mm,56mm)(64.5mm,56mm) on Top Layer 
+   Violation between Net Antennae: Track (59.64mm,42mm)(64mm,42mm) on Top Layer 
+   Violation between Net Antennae: Track (70.75mm,2mm)(78.75mm,2mm) on Top Layer 
+   Violation between Net Antennae: Track (95.5mm,55.5mm)(101mm,55.5mm) on Top Layer 
+   Violation between Net Antennae: Track (96mm,41.5mm)(101mm,41.5mm) on Top Layer 
+Rule Violations :6
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:00

@@ -1,0 +1,27 @@
+
+{
+	"Shelf Number": 10,
+  "Socket": {
+    1: "Android",
+    2: "Iphone",
+    3: "Type_C",
+    4: "Nokia"
+  },
+  "Shelf Socket": {
+    1: {1,2},
+    2: {1,2},
+    3: {1,2},
+    4: {1,2},
+    5: {1,2},
+    6: {1,2},
+    7: {1,3},
+    8: {1,3},
+    9: {1,4},
+    10: {1,4},
+    
+  },
+  "CI": {
+    "SERVICE": "travis-ci",
+    "HOOK_URL": "web-hooking-url-from-ci-service"
+  }
+}

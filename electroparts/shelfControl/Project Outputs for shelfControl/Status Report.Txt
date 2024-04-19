@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [shelfControl.PrjPCB]
+   Generated File[shelfControl 5V.GTL]
+   Generated File[shelfControl 5V.RUL]
+   Generated File[shelfControl 5V.EXTREP]
+   Generated File[shelfControl 5V.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:57:30 PM On 12/5/2019

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P0 Old Footprint=HDR1X12H New Footprint=hdr1x12
+Change Component Comment : Designator=P0 Old Comment=Header 12H New Comment=Header 12
+Added Room: Name=divisor

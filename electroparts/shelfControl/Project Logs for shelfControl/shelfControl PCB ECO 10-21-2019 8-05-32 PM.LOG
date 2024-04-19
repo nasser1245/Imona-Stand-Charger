@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=5V Pin=Q17-2
+Removed Pin From Net: NetName=5V Pin=R18-1
+Change Component Comment : Designator=Q17 Old Comment=s9012 New Comment=s9018
+Added Pin To Net: NetName=12V Pin=D1-A
+Added Pin To Net: NetName=12V Pin=D2-A
+Added Pin To Net: NetName=NetD3_1 Pin=D3-A
+Added Pin To Net: NetName=NetD3_1 Pin=D4-A
+Added Pin To Net: NetName=NetD5_1 Pin=D5-A
+Added Pin To Net: NetName=NetD5_1 Pin=D6-A
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=Q17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=Q17-3
+Added Net: Name=NetP3_2

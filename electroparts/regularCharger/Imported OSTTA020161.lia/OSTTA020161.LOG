@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : OSTTA020161.LibPkg
+
+Section : E:\standCharger\electroparts\regularCharger\OSTTA020161.lia
+    Section : PCB Library - OSTTA020161.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token OSTTA020161 On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 163
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - OSTTA020161.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 110
+        EndSection
+
+        Section : Generating SCH Library - OSTTA020161.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MicroSwitch.PrjPCB]
+   Generated File[MicroSwitch.GTL]
+   Generated File[MicroSwitch.RUL]
+   Generated File[MicroSwitch.EXTREP]
+   Generated File[MicroSwitch.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:24:08 PM On 12/7/2019

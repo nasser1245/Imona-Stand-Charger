@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 6-1123723-2.LibPkg
+
+Section : E:\standCharger\electroparts\6-1123723-2.lia
+    Section : PCB Library - 6-1123723-2.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 6-1123723-2 On Line 133
+            Warning - 1 : Skipping Token attachedSymbol On Line 186
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 6-1123723-2.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 122
+        EndSection
+
+        Section : Generating SCH Library - 6-1123723-2.SchLib
+        EndSection
+    EndSection
+EndSection

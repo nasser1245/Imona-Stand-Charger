@@ -1,0 +1,577 @@
+Added Component: Designator=P4(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P8(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P9(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SR8(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR9(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR10(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR11(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR12(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR13(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR14(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR15(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR16(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR17(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR18(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Component: Designator=SR19(SO-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8bit"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0_12 Pin=P0-13
+Added Pin To Net: NetName=1_12 Pin=P1-13
+Added Pin To Net: NetName=2_12 Pin=P2-13
+Added Pin To Net: NetName=3_12 Pin=P3-13
+Added Pin To Net: NetName=0_11 Pin=P4-12
+Added Pin To Net: NetName=0_11 Pin=P5-12
+Added Pin To Net: NetName=0_11 Pin=P6-12
+Added Pin To Net: NetName=0_11 Pin=P9-12
+Added Pin To Net: NetName=GND Pin=SR8-8
+Added Pin To Net: NetName=VCC Pin=SR8-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR8-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR8-12
+Added Pin To Net: NetName=GND Pin=SR8-13
+Added Pin To Net: NetName=TO_SR8 Pin=SR8-14
+Added Pin To Net: NetName=VCC Pin=SR8-16
+Added Pin To Net: NetName=0_11 Pin=SR9-3
+Added Pin To Net: NetName=GND Pin=SR9-8
+Added Pin To Net: NetName=VCC Pin=SR9-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR9-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR9-12
+Added Pin To Net: NetName=GND Pin=SR9-13
+Added Pin To Net: NetName=VCC Pin=SR9-16
+Added Pin To Net: NetName=GND Pin=SR10-8
+Added Pin To Net: NetName=VCC Pin=SR10-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR10-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR10-12
+Added Pin To Net: NetName=GND Pin=SR10-13
+Added Pin To Net: NetName=VCC Pin=SR10-16
+Added Pin To Net: NetName=0_11 Pin=SR11-3
+Added Pin To Net: NetName=GND Pin=SR11-8
+Added Pin To Net: NetName=VCC Pin=SR11-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR11-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR11-12
+Added Pin To Net: NetName=GND Pin=SR11-13
+Added Pin To Net: NetName=VCC Pin=SR11-16
+Added Pin To Net: NetName=GND Pin=SR12-8
+Added Pin To Net: NetName=VCC Pin=SR12-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR12-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR12-12
+Added Pin To Net: NetName=GND Pin=SR12-13
+Added Pin To Net: NetName=VCC Pin=SR12-16
+Added Pin To Net: NetName=0_11 Pin=SR13-3
+Added Pin To Net: NetName=GND Pin=SR13-8
+Added Pin To Net: NetName=VCC Pin=SR13-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR13-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR13-12
+Added Pin To Net: NetName=GND Pin=SR13-13
+Added Pin To Net: NetName=VCC Pin=SR13-16
+Added Pin To Net: NetName=GND Pin=SR14-8
+Added Pin To Net: NetName=VCC Pin=SR14-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR14-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR14-12
+Added Pin To Net: NetName=GND Pin=SR14-13
+Added Pin To Net: NetName=VCC Pin=SR14-16
+Added Pin To Net: NetName=GND Pin=SR15-8
+Added Pin To Net: NetName=VCC Pin=SR15-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR15-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR15-12
+Added Pin To Net: NetName=GND Pin=SR15-13
+Added Pin To Net: NetName=VCC Pin=SR15-16
+Added Pin To Net: NetName=GND Pin=SR16-8
+Added Pin To Net: NetName=VCC Pin=SR16-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR16-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR16-12
+Added Pin To Net: NetName=GND Pin=SR16-13
+Added Pin To Net: NetName=VCC Pin=SR16-16
+Added Pin To Net: NetName=GND Pin=SR17-8
+Added Pin To Net: NetName=VCC Pin=SR17-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR17-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR17-12
+Added Pin To Net: NetName=GND Pin=SR17-13
+Added Pin To Net: NetName=VCC Pin=SR17-16
+Added Pin To Net: NetName=GND Pin=SR18-8
+Added Pin To Net: NetName=VCC Pin=SR18-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR18-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR18-12
+Added Pin To Net: NetName=GND Pin=SR18-13
+Added Pin To Net: NetName=VCC Pin=SR18-16
+Added Pin To Net: NetName=0_11 Pin=SR19-3
+Added Pin To Net: NetName=GND Pin=SR19-8
+Added Pin To Net: NetName=VCC Pin=SR19-10
+Added Pin To Net: NetName=SH_CP_11 Pin=SR19-11
+Added Pin To Net: NetName=ST_CP_10 Pin=SR19-12
+Added Pin To Net: NetName=GND Pin=SR19-13
+Added Pin To Net: NetName=VCC Pin=SR19-16
+Added Pin To Net: NetName=4_00 Pin=P4-1
+Added Pin To Net: NetName=4_00 Pin=SR8-15
+Added Net: Name=4_00
+Added Pin To Net: NetName=4_01 Pin=P4-2
+Added Pin To Net: NetName=4_01 Pin=SR8-1
+Added Net: Name=4_01
+Added Pin To Net: NetName=4_02 Pin=P4-3
+Added Pin To Net: NetName=4_02 Pin=SR8-2
+Added Net: Name=4_02
+Added Pin To Net: NetName=4_03 Pin=P4-4
+Added Pin To Net: NetName=4_03 Pin=SR8-3
+Added Net: Name=4_03
+Added Pin To Net: NetName=4_04 Pin=P4-5
+Added Pin To Net: NetName=4_04 Pin=SR8-4
+Added Net: Name=4_04
+Added Pin To Net: NetName=4_05 Pin=P4-6
+Added Pin To Net: NetName=4_05 Pin=SR8-5
+Added Net: Name=4_05
+Added Pin To Net: NetName=4_06 Pin=P4-7
+Added Pin To Net: NetName=4_06 Pin=SR8-6
+Added Net: Name=4_06
+Added Pin To Net: NetName=4_07 Pin=P4-8
+Added Pin To Net: NetName=4_07 Pin=SR8-7
+Added Net: Name=4_07
+Added Pin To Net: NetName=4_08 Pin=P4-9
+Added Pin To Net: NetName=4_08 Pin=SR9-15
+Added Net: Name=4_08
+Added Pin To Net: NetName=4_09 Pin=P4-10
+Added Pin To Net: NetName=4_09 Pin=SR9-1
+Added Net: Name=4_09
+Added Pin To Net: NetName=4_10 Pin=P4-11
+Added Pin To Net: NetName=4_10 Pin=SR9-2
+Added Net: Name=4_10
+Added Pin To Net: NetName=4_12 Pin=P4-13
+Added Pin To Net: NetName=4_12 Pin=SR9-4
+Added Net: Name=4_12
+Added Pin To Net: NetName=4_NC0 Pin=P4-14
+Added Pin To Net: NetName=4_NC0 Pin=SR9-5
+Added Net: Name=4_NC0
+Added Pin To Net: NetName=4_NC1 Pin=P4-15
+Added Pin To Net: NetName=4_NC1 Pin=SR9-6
+Added Net: Name=4_NC1
+Added Pin To Net: NetName=4_NC2 Pin=P4-16
+Added Pin To Net: NetName=4_NC2 Pin=SR9-7
+Added Net: Name=4_NC2
+Added Pin To Net: NetName=5_00 Pin=P5-1
+Added Pin To Net: NetName=5_00 Pin=SR10-15
+Added Net: Name=5_00
+Added Pin To Net: NetName=5_01 Pin=P5-2
+Added Pin To Net: NetName=5_01 Pin=SR10-1
+Added Net: Name=5_01
+Added Pin To Net: NetName=5_02 Pin=P5-3
+Added Pin To Net: NetName=5_02 Pin=SR10-2
+Added Net: Name=5_02
+Added Pin To Net: NetName=5_03 Pin=P5-4
+Added Pin To Net: NetName=5_03 Pin=SR10-3
+Added Net: Name=5_03
+Added Pin To Net: NetName=5_04 Pin=P5-5
+Added Pin To Net: NetName=5_04 Pin=SR10-4
+Added Net: Name=5_04
+Added Pin To Net: NetName=5_05 Pin=P5-6
+Added Pin To Net: NetName=5_05 Pin=SR10-5
+Added Net: Name=5_05
+Added Pin To Net: NetName=5_06 Pin=P5-7
+Added Pin To Net: NetName=5_06 Pin=SR10-6
+Added Net: Name=5_06
+Added Pin To Net: NetName=5_07 Pin=P5-8
+Added Pin To Net: NetName=5_07 Pin=SR10-7
+Added Net: Name=5_07
+Added Pin To Net: NetName=5_08 Pin=P5-9
+Added Pin To Net: NetName=5_08 Pin=SR11-15
+Added Net: Name=5_08
+Added Pin To Net: NetName=5_09 Pin=P5-10
+Added Pin To Net: NetName=5_09 Pin=SR11-1
+Added Net: Name=5_09
+Added Pin To Net: NetName=5_10 Pin=P5-11
+Added Pin To Net: NetName=5_10 Pin=SR11-2
+Added Net: Name=5_10
+Added Pin To Net: NetName=5_12 Pin=P5-13
+Added Pin To Net: NetName=5_12 Pin=SR11-4
+Added Net: Name=5_12
+Added Pin To Net: NetName=5_NC0 Pin=P5-14
+Added Pin To Net: NetName=5_NC0 Pin=SR11-5
+Added Net: Name=5_NC0
+Added Pin To Net: NetName=5_NC1 Pin=P5-15
+Added Pin To Net: NetName=5_NC1 Pin=SR11-6
+Added Net: Name=5_NC1
+Added Pin To Net: NetName=5_NC2 Pin=P5-16
+Added Pin To Net: NetName=5_NC2 Pin=SR11-7
+Added Net: Name=5_NC2
+Added Pin To Net: NetName=6_00 Pin=P6-1
+Added Pin To Net: NetName=6_00 Pin=SR12-15
+Added Net: Name=6_00
+Added Pin To Net: NetName=6_01 Pin=P6-2
+Added Pin To Net: NetName=6_01 Pin=SR12-1
+Added Net: Name=6_01
+Added Pin To Net: NetName=6_02 Pin=P6-3
+Added Pin To Net: NetName=6_02 Pin=SR12-2
+Added Net: Name=6_02
+Added Pin To Net: NetName=6_03 Pin=P6-4
+Added Pin To Net: NetName=6_03 Pin=SR12-3
+Added Net: Name=6_03
+Added Pin To Net: NetName=6_04 Pin=P6-5
+Added Pin To Net: NetName=6_04 Pin=SR12-4
+Added Net: Name=6_04
+Added Pin To Net: NetName=6_05 Pin=P6-6
+Added Pin To Net: NetName=6_05 Pin=SR12-5
+Added Net: Name=6_05
+Added Pin To Net: NetName=6_06 Pin=P6-7
+Added Pin To Net: NetName=6_06 Pin=SR12-6
+Added Net: Name=6_06
+Added Pin To Net: NetName=6_07 Pin=P6-8
+Added Pin To Net: NetName=6_07 Pin=SR12-7
+Added Net: Name=6_07
+Added Pin To Net: NetName=6_08 Pin=P6-9
+Added Pin To Net: NetName=6_08 Pin=SR13-15
+Added Net: Name=6_08
+Added Pin To Net: NetName=6_09 Pin=P6-10
+Added Pin To Net: NetName=6_09 Pin=SR13-1
+Added Net: Name=6_09
+Added Pin To Net: NetName=6_10 Pin=P6-11
+Added Pin To Net: NetName=6_10 Pin=SR13-2
+Added Net: Name=6_10
+Added Pin To Net: NetName=6_12 Pin=P6-13
+Added Pin To Net: NetName=6_12 Pin=SR13-4
+Added Net: Name=6_12
+Added Pin To Net: NetName=6_NC0 Pin=P6-14
+Added Pin To Net: NetName=6_NC0 Pin=SR13-5
+Added Net: Name=6_NC0
+Added Pin To Net: NetName=6_NC1 Pin=P6-15
+Added Pin To Net: NetName=6_NC1 Pin=SR13-6
+Added Net: Name=6_NC1
+Added Pin To Net: NetName=6_NC2 Pin=P6-16
+Added Pin To Net: NetName=6_NC2 Pin=SR13-7
+Added Net: Name=6_NC2
+Added Pin To Net: NetName=7_00 Pin=SR14-15
+Added Net: Name=7_00
+Added Pin To Net: NetName=7_01 Pin=P7-2
+Added Pin To Net: NetName=7_01 Pin=SR14-1
+Added Net: Name=7_01
+Added Pin To Net: NetName=7_02 Pin=P7-3
+Added Pin To Net: NetName=7_02 Pin=SR14-2
+Added Net: Name=7_02
+Added Pin To Net: NetName=7_03 Pin=P7-4
+Added Pin To Net: NetName=7_03 Pin=SR14-3
+Added Net: Name=7_03
+Added Pin To Net: NetName=7_04 Pin=P7-5
+Added Pin To Net: NetName=7_04 Pin=SR14-4
+Added Net: Name=7_04
+Added Pin To Net: NetName=7_05 Pin=P7-6
+Added Pin To Net: NetName=7_05 Pin=SR14-5
+Added Net: Name=7_05
+Added Pin To Net: NetName=7_06 Pin=P7-7
+Added Pin To Net: NetName=7_06 Pin=SR14-6
+Added Net: Name=7_06
+Added Pin To Net: NetName=7_07 Pin=P7-8
+Added Pin To Net: NetName=7_07 Pin=SR14-7
+Added Net: Name=7_07
+Added Pin To Net: NetName=7_08 Pin=P7-9
+Added Pin To Net: NetName=7_08 Pin=SR15-15
+Added Net: Name=7_08
+Added Pin To Net: NetName=7_09 Pin=P7-10
+Added Pin To Net: NetName=7_09 Pin=SR15-1
+Added Net: Name=7_09
+Added Pin To Net: NetName=7_10 Pin=P7-11
+Added Pin To Net: NetName=7_10 Pin=SR15-2
+Added Net: Name=7_10
+Added Pin To Net: NetName=7_11 Pin=P7-12
+Added Pin To Net: NetName=7_11 Pin=SR15-3
+Added Net: Name=7_11
+Added Pin To Net: NetName=7_12 Pin=P7-13
+Added Pin To Net: NetName=7_12 Pin=SR15-4
+Added Net: Name=7_12
+Added Pin To Net: NetName=7_NC0 Pin=P7-14
+Added Pin To Net: NetName=7_NC0 Pin=SR15-5
+Added Net: Name=7_NC0
+Added Pin To Net: NetName=7_NC1 Pin=P7-15
+Added Pin To Net: NetName=7_NC1 Pin=SR15-6
+Added Net: Name=7_NC1
+Added Pin To Net: NetName=7_NC2 Pin=P7-16
+Added Pin To Net: NetName=7_NC2 Pin=SR15-7
+Added Net: Name=7_NC2
+Added Pin To Net: NetName=8_00 Pin=P8-1
+Added Pin To Net: NetName=8_00 Pin=SR16-15
+Added Net: Name=8_00
+Added Pin To Net: NetName=8_01 Pin=P8-2
+Added Pin To Net: NetName=8_01 Pin=SR16-1
+Added Net: Name=8_01
+Added Pin To Net: NetName=8_02 Pin=P8-3
+Added Pin To Net: NetName=8_02 Pin=SR16-2
+Added Net: Name=8_02
+Added Pin To Net: NetName=8_03 Pin=P8-4
+Added Pin To Net: NetName=8_03 Pin=SR16-3
+Added Net: Name=8_03
+Added Pin To Net: NetName=8_04 Pin=P8-5
+Added Pin To Net: NetName=8_04 Pin=SR16-4
+Added Net: Name=8_04
+Added Pin To Net: NetName=8_05 Pin=P8-6
+Added Pin To Net: NetName=8_05 Pin=SR16-5
+Added Net: Name=8_05
+Added Pin To Net: NetName=8_06 Pin=P8-7
+Added Pin To Net: NetName=8_06 Pin=SR16-6
+Added Net: Name=8_06
+Added Pin To Net: NetName=8_07 Pin=P8-8
+Added Pin To Net: NetName=8_07 Pin=SR16-7
+Added Net: Name=8_07
+Added Pin To Net: NetName=8_08 Pin=P8-9
+Added Pin To Net: NetName=8_08 Pin=SR17-15
+Added Net: Name=8_08
+Added Pin To Net: NetName=8_09 Pin=P8-10
+Added Pin To Net: NetName=8_09 Pin=SR17-1
+Added Net: Name=8_09
+Added Pin To Net: NetName=8_10 Pin=P8-11
+Added Pin To Net: NetName=8_10 Pin=SR17-2
+Added Net: Name=8_10
+Added Pin To Net: NetName=8_11 Pin=P8-12
+Added Pin To Net: NetName=8_11 Pin=SR17-3
+Added Net: Name=8_11
+Added Pin To Net: NetName=8_12 Pin=P8-13
+Added Pin To Net: NetName=8_12 Pin=SR17-4
+Added Net: Name=8_12
+Added Pin To Net: NetName=8_NC0 Pin=P8-14
+Added Pin To Net: NetName=8_NC0 Pin=SR17-5
+Added Net: Name=8_NC0
+Added Pin To Net: NetName=8_NC1 Pin=P8-15
+Added Pin To Net: NetName=8_NC1 Pin=SR17-6
+Added Net: Name=8_NC1
+Added Pin To Net: NetName=8_NC2 Pin=P8-16
+Added Pin To Net: NetName=8_NC2 Pin=SR17-7
+Added Net: Name=8_NC2
+Added Pin To Net: NetName=9-12 Pin=P9-13
+Added Net: Name=9-12
+Added Pin To Net: NetName=9_00 Pin=P9-1
+Added Pin To Net: NetName=9_00 Pin=SR18-15
+Added Net: Name=9_00
+Added Pin To Net: NetName=9_01 Pin=P9-2
+Added Pin To Net: NetName=9_01 Pin=SR18-1
+Added Net: Name=9_01
+Added Pin To Net: NetName=9_02 Pin=P9-3
+Added Pin To Net: NetName=9_02 Pin=SR18-2
+Added Net: Name=9_02
+Added Pin To Net: NetName=9_03 Pin=P9-4
+Added Pin To Net: NetName=9_03 Pin=SR18-3
+Added Net: Name=9_03
+Added Pin To Net: NetName=9_04 Pin=P9-5
+Added Pin To Net: NetName=9_04 Pin=SR18-4
+Added Net: Name=9_04
+Added Pin To Net: NetName=9_05 Pin=P9-6
+Added Pin To Net: NetName=9_05 Pin=SR18-5
+Added Net: Name=9_05
+Added Pin To Net: NetName=9_06 Pin=P9-7
+Added Pin To Net: NetName=9_06 Pin=SR18-6
+Added Net: Name=9_06
+Added Pin To Net: NetName=9_07 Pin=P9-8
+Added Pin To Net: NetName=9_07 Pin=SR18-7
+Added Net: Name=9_07
+Added Pin To Net: NetName=9_08 Pin=P9-9
+Added Pin To Net: NetName=9_08 Pin=SR19-15
+Added Net: Name=9_08
+Added Pin To Net: NetName=9_09 Pin=P9-10
+Added Pin To Net: NetName=9_09 Pin=SR19-1
+Added Net: Name=9_09
+Added Pin To Net: NetName=9_10 Pin=P9-11
+Added Pin To Net: NetName=9_10 Pin=SR19-2
+Added Net: Name=9_10
+Added Pin To Net: NetName=9_12 Pin=SR19-4
+Added Net: Name=9_12
+Added Pin To Net: NetName=9_NC0 Pin=P9-14
+Added Pin To Net: NetName=9_NC0 Pin=SR19-5
+Added Net: Name=9_NC0
+Added Pin To Net: NetName=9_NC1 Pin=P9-15
+Added Pin To Net: NetName=9_NC1 Pin=SR19-6
+Added Net: Name=9_NC1
+Added Pin To Net: NetName=9_NC2 Pin=P9-16
+Added Pin To Net: NetName=9_NC2 Pin=SR19-7
+Added Net: Name=9_NC2
+Added Pin To Net: NetName=37_00 Pin=P7-1
+Added Net: Name=37_00
+Added Pin To Net: NetName=TO_SR9 Pin=SR8-9
+Added Pin To Net: NetName=TO_SR9 Pin=SR9-14
+Added Net: Name=TO_SR9
+Added Pin To Net: NetName=TO_SR10 Pin=SR9-9
+Added Pin To Net: NetName=TO_SR10 Pin=SR10-14
+Added Net: Name=TO_SR10
+Added Pin To Net: NetName=TO_SR11 Pin=SR10-9
+Added Pin To Net: NetName=TO_SR11 Pin=SR11-14
+Added Net: Name=TO_SR11
+Added Pin To Net: NetName=TO_SR12 Pin=SR11-9
+Added Pin To Net: NetName=TO_SR12 Pin=SR12-14
+Added Net: Name=TO_SR12
+Added Pin To Net: NetName=TO_SR13 Pin=SR12-9
+Added Pin To Net: NetName=TO_SR13 Pin=SR13-14
+Added Net: Name=TO_SR13
+Added Pin To Net: NetName=TO_SR14 Pin=SR13-9
+Added Pin To Net: NetName=TO_SR14 Pin=SR14-14
+Added Net: Name=TO_SR14
+Added Pin To Net: NetName=TO_SR15 Pin=SR14-9
+Added Pin To Net: NetName=TO_SR15 Pin=SR15-14
+Added Net: Name=TO_SR15
+Added Pin To Net: NetName=TO_SR16 Pin=SR15-9
+Added Pin To Net: NetName=TO_SR16 Pin=SR16-14
+Added Net: Name=TO_SR16
+Added Pin To Net: NetName=TO_SR17 Pin=SR16-9
+Added Pin To Net: NetName=TO_SR17 Pin=SR17-14
+Added Net: Name=TO_SR17
+Added Pin To Net: NetName=TO_SR18 Pin=SR17-9
+Added Pin To Net: NetName=TO_SR18 Pin=SR18-14
+Added Net: Name=TO_SR18
+Added Pin To Net: NetName=TO_SR19 Pin=SR18-9
+Added Pin To Net: NetName=TO_SR19 Pin=SR19-14
+Added Net: Name=TO_SR19
+Added Member To Class: ClassName=divisor Member=Component P4 Header 16
+Added Member To Class: ClassName=divisor Member=Component P5 Header 16
+Added Member To Class: ClassName=divisor Member=Component P6 Header 16
+Added Member To Class: ClassName=divisor Member=Component P7 Header 16
+Added Member To Class: ClassName=divisor Member=Component P8 Header 16
+Added Member To Class: ClassName=divisor Member=Component P9 Header 16
+Added Member To Class: ClassName=divisor Member=Component SR8 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR9 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR10 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR11 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR12 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR13 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR14 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR15 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR16 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR17 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR18 74HC595 Shift Register
+Added Member To Class: ClassName=divisor Member=Component SR19 74HC595 Shift Register
+Added Room: Name=divisor

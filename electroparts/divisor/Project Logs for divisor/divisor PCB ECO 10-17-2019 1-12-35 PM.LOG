@@ -1,0 +1,198 @@
+Removed Member From Class: ClassName=divisor Member=D40
+Removed Member From Class: ClassName=divisor Member=D41
+Removed Member From Class: ClassName=divisor Member=D42
+Removed Member From Class: ClassName=divisor Member=D43
+Removed Member From Class: ClassName=divisor Member=D44
+Removed Member From Class: ClassName=divisor Member=D45
+Removed Member From Class: ClassName=divisor Member=D46
+Removed Member From Class: ClassName=divisor Member=D47
+Removed Member From Class: ClassName=divisor Member=D48
+Removed Member From Class: ClassName=divisor Member=D49
+Removed Member From Class: ClassName=divisor Member=P15
+Removed Member From Class: ClassName=divisor Member=R5
+Change Component Footprint: Designator=P16 Old Footprint=HDR1X5 New Footprint=HDR1X4
+Change Component Comment : Designator=P16 Old Comment=Header 5 New Comment=Header 4
+Added Component: Designator=D112(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(6-0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD00_1 Pin=D00-A
+Added Pin To Net: NetName=NetD00_2 Pin=D00-A
+Added Pin To Net: NetName=NetD00_2 Pin=D01-A
+Added Pin To Net: NetName=NetD01_1 Pin=D01-A
+Added Pin To Net: NetName=NetD00_2 Pin=D02-A
+Added Pin To Net: NetName=NetD02_1 Pin=D02-A
+Added Pin To Net: NetName=NetD00_2 Pin=D03-A
+Added Pin To Net: NetName=NetD03_1 Pin=D03-A
+Added Pin To Net: NetName=NetD00_2 Pin=D04-A
+Added Pin To Net: NetName=NetD04_1 Pin=D04-A
+Added Pin To Net: NetName=NetD00_2 Pin=D05-A
+Added Pin To Net: NetName=NetD05_1 Pin=D05-A
+Added Pin To Net: NetName=NetD00_2 Pin=D06-A
+Added Pin To Net: NetName=NetD06_1 Pin=D06-A
+Added Pin To Net: NetName=NetD00_2 Pin=D07-A
+Added Pin To Net: NetName=NetD07_1 Pin=D07-A
+Added Pin To Net: NetName=NetD00_2 Pin=D08-A
+Added Pin To Net: NetName=NetD08_1 Pin=D08-A
+Added Pin To Net: NetName=NetD00_2 Pin=D09-A
+Added Pin To Net: NetName=NetD09_1 Pin=D09-A
+Added Pin To Net: NetName=NetD11_1 Pin=D11-A
+Added Pin To Net: NetName=NetD13_1 Pin=D13-A
+Added Pin To Net: NetName=NetD14_1 Pin=D14-A
+Added Pin To Net: NetName=NetD15_1 Pin=D15-A
+Added Pin To Net: NetName=NetD16_1 Pin=D16-A
+Added Pin To Net: NetName=NetD17_1 Pin=D17-A
+Added Pin To Net: NetName=NetD18_1 Pin=D18-A
+Added Pin To Net: NetName=NetD19_1 Pin=D19-A
+Added Pin To Net: NetName=NetD20_1 Pin=D20-A
+Added Pin To Net: NetName=NetD20_2 Pin=D20-A
+Added Pin To Net: NetName=NetD20_2 Pin=D21-A
+Added Pin To Net: NetName=NetD21_1 Pin=D21-A
+Added Pin To Net: NetName=NetD20_2 Pin=D22-A
+Added Pin To Net: NetName=NetD22_1 Pin=D22-A
+Added Pin To Net: NetName=NetD20_2 Pin=D23-A
+Added Pin To Net: NetName=NetD23_1 Pin=D23-A
+Added Pin To Net: NetName=NetD20_2 Pin=D24-A
+Added Pin To Net: NetName=NetD24_1 Pin=D24-A
+Added Pin To Net: NetName=NetD20_2 Pin=D25-A
+Added Pin To Net: NetName=NetD25_1 Pin=D25-A
+Added Pin To Net: NetName=NetD20_2 Pin=D26-A
+Added Pin To Net: NetName=NetD26_1 Pin=D26-A
+Added Pin To Net: NetName=NetD20_2 Pin=D27-A
+Added Pin To Net: NetName=NetD27_1 Pin=D27-A
+Added Pin To Net: NetName=NetD20_2 Pin=D28-A
+Added Pin To Net: NetName=NetD28_1 Pin=D28-A
+Added Pin To Net: NetName=NetD20_2 Pin=D29-A
+Added Pin To Net: NetName=NetD29_1 Pin=D29-A
+Added Pin To Net: NetName=NetD30_1 Pin=D30-A
+Added Pin To Net: NetName=NetD30_2 Pin=D30-A
+Added Pin To Net: NetName=NetD30_2 Pin=D31-A
+Added Pin To Net: NetName=NetD31_1 Pin=D31-A
+Added Pin To Net: NetName=NetD30_2 Pin=D32-A
+Added Pin To Net: NetName=NetD32_1 Pin=D32-A
+Added Pin To Net: NetName=NetD30_2 Pin=D33-A
+Added Pin To Net: NetName=NetD33_1 Pin=D33-A
+Added Pin To Net: NetName=NetD30_2 Pin=D34-A
+Added Pin To Net: NetName=NetD34_1 Pin=D34-A
+Added Pin To Net: NetName=NetD30_2 Pin=D35-A
+Added Pin To Net: NetName=NetD35_1 Pin=D35-A
+Added Pin To Net: NetName=NetD30_2 Pin=D36-A
+Added Pin To Net: NetName=NetD36_1 Pin=D36-A
+Added Pin To Net: NetName=NetD30_2 Pin=D37-A
+Added Pin To Net: NetName=NetD37_1 Pin=D37-A
+Added Pin To Net: NetName=NetD30_2 Pin=D38-A
+Added Pin To Net: NetName=NetD38_1 Pin=D38-A
+Added Pin To Net: NetName=NetD30_2 Pin=D39-A
+Added Pin To Net: NetName=NetD39_1 Pin=D39-A
+Added Pin To Net: NetName=NetD00_1 Pin=P11-1
+Added Pin To Net: NetName=NetD01_1 Pin=P11-2
+Added Pin To Net: NetName=NetD02_1 Pin=P11-3
+Added Pin To Net: NetName=NetD03_1 Pin=P11-4
+Added Pin To Net: NetName=NetD04_1 Pin=P11-5
+Added Pin To Net: NetName=NetD05_1 Pin=P11-6
+Added Pin To Net: NetName=NetD06_1 Pin=P11-7
+Added Pin To Net: NetName=NetD07_1 Pin=P11-8
+Added Pin To Net: NetName=NetD08_1 Pin=P11-9
+Added Pin To Net: NetName=NetD09_1 Pin=P11-10
+Added Pin To Net: NetName=NetD11_1 Pin=P12-2
+Added Pin To Net: NetName=NetD13_1 Pin=P12-4
+Added Pin To Net: NetName=NetD14_1 Pin=P12-5
+Added Pin To Net: NetName=NetD15_1 Pin=P12-6
+Added Pin To Net: NetName=NetD16_1 Pin=P12-7
+Added Pin To Net: NetName=NetD17_1 Pin=P12-8
+Added Pin To Net: NetName=NetD18_1 Pin=P12-9
+Added Pin To Net: NetName=NetD19_1 Pin=P12-10
+Added Pin To Net: NetName=NetD20_1 Pin=P13-1
+Added Pin To Net: NetName=NetD21_1 Pin=P13-2
+Added Pin To Net: NetName=NetD22_1 Pin=P13-3
+Added Pin To Net: NetName=NetD23_1 Pin=P13-4
+Added Pin To Net: NetName=NetD24_1 Pin=P13-5
+Added Pin To Net: NetName=NetD25_1 Pin=P13-6
+Added Pin To Net: NetName=NetD26_1 Pin=P13-7
+Added Pin To Net: NetName=NetD27_1 Pin=P13-8
+Added Pin To Net: NetName=NetD28_1 Pin=P13-9
+Added Pin To Net: NetName=NetD29_1 Pin=P13-10
+Added Pin To Net: NetName=NetD30_1 Pin=P14-1
+Added Pin To Net: NetName=NetD31_1 Pin=P14-2
+Added Pin To Net: NetName=NetD32_1 Pin=P14-3
+Added Pin To Net: NetName=NetD33_1 Pin=P14-4
+Added Pin To Net: NetName=NetD34_1 Pin=P14-5
+Added Pin To Net: NetName=NetD35_1 Pin=P14-6
+Added Pin To Net: NetName=NetD36_1 Pin=P14-7
+Added Pin To Net: NetName=NetD37_1 Pin=P14-8
+Added Pin To Net: NetName=NetD38_1 Pin=P14-9
+Added Pin To Net: NetName=NetD39_1 Pin=P14-10
+Added Pin To Net: NetName=NetD00_2 Pin=R1-1
+Added Pin To Net: NetName=NetP16_1 Pin=R1-2
+Added Pin To Net: NetName=NetP16_2 Pin=R2-2
+Added Pin To Net: NetName=NetD20_2 Pin=R3-1
+Added Pin To Net: NetName=NetP16_3 Pin=R3-2
+Added Pin To Net: NetName=NetD30_2 Pin=R4-1
+Added Pin To Net: NetName=NetP16_4 Pin=R4-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-A
+Added Pin To Net: NetName=NetD10_1 Pin=P12-1
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-A
+Added Pin To Net: NetName=NetD10_2 Pin=D11-A
+Added Pin To Net: NetName=NetD10_2 Pin=D13-A
+Added Pin To Net: NetName=NetD10_2 Pin=D14-A
+Added Pin To Net: NetName=NetD10_2 Pin=D15-A
+Added Pin To Net: NetName=NetD10_2 Pin=D16-A
+Added Pin To Net: NetName=NetD10_2 Pin=D17-A
+Added Pin To Net: NetName=NetD10_2 Pin=D18-A
+Added Pin To Net: NetName=NetD10_2 Pin=D19-A
+Added Pin To Net: NetName=NetD10_2 Pin=D112-A
+Added Pin To Net: NetName=NetD10_2 Pin=R2-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD112_1 Pin=D112-A
+Added Pin To Net: NetName=NetD112_1 Pin=P12-3
+Added Net: Name=NetD112_1
+Added Member To Class: ClassName=divisor Member=Component D00 SM120A
+Added Member To Class: ClassName=divisor Member=Component D01 SM120A
+Added Member To Class: ClassName=divisor Member=Component D02 SM120A
+Added Member To Class: ClassName=divisor Member=Component D03 SM120A
+Added Member To Class: ClassName=divisor Member=Component D04 SM120A
+Added Member To Class: ClassName=divisor Member=Component D05 SM120A
+Added Member To Class: ClassName=divisor Member=Component D06 SM120A
+Added Member To Class: ClassName=divisor Member=Component D07 SM120A
+Added Member To Class: ClassName=divisor Member=Component D08 SM120A
+Added Member To Class: ClassName=divisor Member=Component D09 SM120A
+Added Member To Class: ClassName=divisor Member=Component D10 SM120A
+Added Member To Class: ClassName=divisor Member=Component D11 SM120A
+Added Member To Class: ClassName=divisor Member=Component D13 SM120A
+Added Member To Class: ClassName=divisor Member=Component D14 SM120A
+Added Member To Class: ClassName=divisor Member=Component D15 SM120A
+Added Member To Class: ClassName=divisor Member=Component D16 SM120A
+Added Member To Class: ClassName=divisor Member=Component D17 SM120A
+Added Member To Class: ClassName=divisor Member=Component D18 SM120A
+Added Member To Class: ClassName=divisor Member=Component D19 SM120A
+Added Member To Class: ClassName=divisor Member=Component D20 SM120A
+Added Member To Class: ClassName=divisor Member=Component D21 SM120A
+Added Member To Class: ClassName=divisor Member=Component D22 SM120A
+Added Member To Class: ClassName=divisor Member=Component D23 SM120A
+Added Member To Class: ClassName=divisor Member=Component D24 SM120A
+Added Member To Class: ClassName=divisor Member=Component D25 SM120A
+Added Member To Class: ClassName=divisor Member=Component D26 SM120A
+Added Member To Class: ClassName=divisor Member=Component D27 SM120A
+Added Member To Class: ClassName=divisor Member=Component D28 SM120A
+Added Member To Class: ClassName=divisor Member=Component D29 SM120A
+Added Member To Class: ClassName=divisor Member=Component D112 SM120A
+Added Member To Class: ClassName=divisor Member=Component P11 Header 10
+Added Member To Class: ClassName=divisor Member=Component R1 Res1
+Added Member To Class: ClassName=divisor Member=Component R2 Res1
+Added Member To Class: ClassName=divisor Member=Component R3 Res1
+Added Room: Name=divisor

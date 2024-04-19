@@ -1,0 +1,213 @@
+{
+  "Shelf Number": 10,
+  "Socket": {
+    "1": "Android",
+    "2": "Iphone",
+    "3": "Type_C",
+    "4": "Nokia"
+  },
+  "Shelf Socket": {
+    "1": [
+      "1",
+      "2"
+    ],
+    "2": [
+      "1",
+      "2"
+    ],
+    "3": [
+      "1",
+      "2"
+    ],
+    "4": [
+      "1",
+      "2"
+    ],
+    "5": [
+      "1",
+      "2"
+    ],
+    "6": [
+      "1",
+      "3"
+    ],
+    "7": [
+      "1",
+      "3"
+    ],
+    "8": [
+      "1",
+      "3"
+    ],
+    "9": [
+      "1",
+      "4"
+    ],
+    "10": [
+      "1",
+      "4"
+    ]
+  },  "__comment": "We can ignore or disable each socket despite of shelf number and that saves other socket in shelf!",
+  "Socket Numbers": {
+    "1": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "3": [
+      6,
+      7,
+      8
+    ],
+    "4": [
+      9,
+      10
+    ]
+  },
+  "Shelf Status": {
+    "1": {
+      "Used": 0,
+      "Occupy Time": "",
+      "Socket Type": "",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": 0,
+      "Video End Date Time": 0,
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    },
+    "2": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "2",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": "",
+      "Video End Date Time": "",
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    },
+    "3": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "2",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": "",
+      "Video End Date Time": "",
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    },
+    "4": {
+      "Used": 0,
+      "Occupy Time": "",
+      "Socket Type": "",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": "",
+      "Video End Date Time": "",
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    },
+    "5": {
+      "Used": 0,
+      "Occupy Time": "",
+      "Socket Type": "",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": "",
+      "Video End Date Time": "",
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    },
+    "6": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "1",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": "",
+      "Video End Date Time": "",
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    },
+    "7": {
+      "Used": 0,
+      "Occupy Time": "",
+      "Socket Type": "",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": "",
+      "Video End Date Time": "",
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    },
+    "8": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "3",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": "",
+      "Video End Date Time": "",
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    },
+    "9": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "4",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": "",
+      "Video End Date Time": "",
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    },
+    "10": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "4",
+      "FingerID": "",
+      "enabled": 1,
+      "Video": "",
+      "Video Start Date Time": "",
+      "Video End Date Time": "",
+      "Start Frame": 0,
+      "Stop Frame": 0,
+      "Pictures":{}
+    }
+  }
+}

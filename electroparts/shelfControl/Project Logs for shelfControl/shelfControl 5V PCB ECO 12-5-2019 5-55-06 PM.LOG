@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=Motor Pin=P1-7
+Removed Pin From Net: NetName=Fan Pin=P1-8
+Removed Pin From Net: NetName=LockControl Pin=P1-9
+Removed Pin From Net: NetName=Charger1Measure Pin=P1-10
+Change Component DesignItemId : Designator=P8 Old DesignItemId=Header 3 New DesignItemId=Header 7
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 10 New DesignItemId=Header 6
+Change Component Footprint: Designator=P8 Old Footprint=HDR1X3 New Footprint=HDR1X7
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X10 New Footprint=HDR1X6
+Change Component Comment : Designator=P8 Old Comment=Header 3 New Comment=Header 7
+Change Component Comment : Designator=P1 Old Comment=Header 10 New Comment=Header 6
+Change Component Description : Designator=P8 Old Description=Header, 3-Pin New Description=Header, 7-Pin
+Change Component Description : Designator=P1 Old Description=Header, 10-Pin New Description=Header, 6-Pin
+Added Pin To Net: NetName=12V Pin=D1-A
+Added Pin To Net: NetName=12V Pin=D2-A
+Added Pin To Net: NetName=NetD3_1 Pin=D3-A
+Added Pin To Net: NetName=NetD4_2 Pin=D4-A
+Added Pin To Net: NetName=NetD5_2 Pin=D5-A
+Added Pin To Net: NetName=NetD6_2 Pin=D6-A
+Added Pin To Net: NetName=Motor Pin=P8-4
+Added Pin To Net: NetName=Fan Pin=P8-5
+Added Pin To Net: NetName=LockControl Pin=P8-6
+Added Pin To Net: NetName=Charger1Measure Pin=P8-7
+Added Member To Class: ClassName=shelfControl Member=Component P5 Header 3
+Added Room: Name=shelfControl

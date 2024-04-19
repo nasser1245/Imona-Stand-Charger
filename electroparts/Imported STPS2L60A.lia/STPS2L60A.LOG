@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : STPS2L60A.LibPkg
+
+Section : E:\standCharger\electroparts\STPS2L60A.lia
+    Section : PCB Library - STPS2L60A.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token STPS2L60A On Line 113
+            Warning - 1 : Skipping Token attachedSymbol On Line 160
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - STPS2L60A.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 107
+        EndSection
+
+        Section : Generating SCH Library - STPS2L60A.SchLib
+        EndSection
+    EndSection
+EndSection

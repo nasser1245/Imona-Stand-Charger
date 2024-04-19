@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : USB-TYPE-A.LibPkg
+
+Section : E:\standCharger\electroparts\regularCharger\USB-TYPE-A.lia
+    Section : PCB Library - USB-TYPE-A.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1-292303-1 On Line 157
+            Warning - 1 : Skipping Token attachedSymbol On Line 247
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*TE_1-292303-1][Primary] associated with PCAD Component [1-292303-1] has been renamed to PCB FootPrint [*TE_1-292303-1_1-292303-1(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - USB-TYPE-A.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 116
+            Warning - 1 : Skipping Token layerContents On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 138
+            Warning - 1 : Skipping Token layerContents On Line 146
+        EndSection
+
+        Section : Generating SCH Library - USB-TYPE-A.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*TE_1-292303-1][Primary] associated with PCAD Component [1-292303-1] has been renamed to PCB FootPrint [*TE_1-292303-1_1-292303-1(Primary)].
+        EndSection
+    EndSection
+EndSection

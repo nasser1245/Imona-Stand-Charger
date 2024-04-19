@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R3 Old Comment=Res1 New Comment=1K
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=220
+Change Component Comment : Designator=R4 Old Comment=Res1 New Comment=220
+Added Room: Name=PhonePresent

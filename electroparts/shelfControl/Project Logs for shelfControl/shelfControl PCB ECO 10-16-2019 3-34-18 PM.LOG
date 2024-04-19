@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=12V Pin=D2-A
+Removed Member From Class: ClassName=shelfControl Member=D2
+Added Component: Designator=D?(*DIOM5227X270N_S1M(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STPS2L60A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STPS2L60A/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=D1-A
+Added Pin To Net: NetName=NetD3_2 Pin=D3-A
+Added Pin To Net: NetName=NetD4_2 Pin=D4-A
+Added Pin To Net: NetName=NetD5_2 Pin=D5-A
+Added Pin To Net: NetName=NetD6_2 Pin=D6-A
+Added Pin To Net: NetName=12V Pin=D?-A
+Added Pin To Net: NetName=NetD?_2 Pin=D?-A
+Added Pin To Net: NetName=NetD?_2 Pin=J8-1
+Added Pin To Net: NetName=NetD?_2 Pin=Q3-2
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=shelfControl Member=Component D? SM330A

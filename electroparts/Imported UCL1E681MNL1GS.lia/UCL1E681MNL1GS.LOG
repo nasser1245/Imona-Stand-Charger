@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : UCL1E681MNL1GS.LibPkg
+
+Section : E:\standCharger\electroparts\UCL1E681MNL1GS.lia
+    Section : PCB Library - UCL1E681MNL1GS.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token UCL1E681MNL1GS On Line 161
+            Warning - 1 : Skipping Token attachedSymbol On Line 220
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*CAPAE1030X1350N][Primary] associated with PCAD Component [UCL1E681MNL1GS] has been renamed to PCB FootPrint [*CAPAE1030X1350N_UCL1E681MNL1GS(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - UCL1E681MNL1GS.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 99
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 132
+        EndSection
+
+        Section : Generating SCH Library - UCL1E681MNL1GS.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*CAPAE1030X1350N][Primary] associated with PCAD Component [UCL1E681MNL1GS] has been renamed to PCB FootPrint [*CAPAE1030X1350N_UCL1E681MNL1GS(Primary)].
+        EndSection
+    EndSection
+EndSection

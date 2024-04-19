@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=3.3V Pin=C2-1
+Removed Pin From Net: NetName=GreenLED_GND Pin=C2-2
+Removed Pin From Net: NetName=3.3V Pin=C3-1
+Removed Pin From Net: NetName=GreenLED_GND Pin=C3-2
+Change Component Footprint: Designator=C2 Old Footprint=smc New Footprint=*CAPAE1030X1350N_UCL1E681MNL1GS(Primary)
+Change Component Footprint: Designator=C3 Old Footprint=smc New Footprint=*CAPAE1030X1350N_UCL1E681MNL1GS(Primary)
+Change Component Comment : Designator=C2 Old Comment=Cap2 New Comment=UCL1E681MNL1GS
+Change Component Comment : Designator=C3 Old Comment=Cap2 New Comment=UCL1E681MNL1GS
+Change component parameters: Designator = "C2"; Footprint = "*CAPAE1030X1350N_UCL1E681MNL1GS(Primary)"; UniqueID = "\ESTXCOLO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "UCL1E681MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UCL1E681MNL1GS/Nichicon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "*CAPAE1030X1350N_UCL1E681MNL1GS(Primary)"; UniqueID = "\QFBJRNMA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "UCL1E681MNL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UCL1E681MNL1GS/Nichicon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C2-A
+Added Pin To Net: NetName=GreenLED_GND Pin=C2-C
+Added Pin To Net: NetName=3.3V Pin=C3-A
+Added Pin To Net: NetName=GreenLED_GND Pin=C3-C
+Added Pin To Net: NetName=NetD1_2 Pin=D1-A
+Added Pin To Net: NetName=NetD2_2 Pin=D2-A
+Added Pin To Net: NetName=NetD3_2 Pin=D3-A
+Added Pin To Net: NetName=NetD4_2 Pin=D4-A
+Added Pin To Net: NetName=NetD5_2 Pin=D5-A
+Added Pin To Net: NetName=NetD6_2 Pin=D6-A
+Added Pin To Net: NetName=12V Pin=J2-1
+Added Room: Name=shelfControl

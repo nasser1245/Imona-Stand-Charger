@@ -1,0 +1,84 @@
+{
+  "Shelf Status": {
+    "1": {
+      "Used": 0,
+      "Occupy Time": "",
+      "Socket Type": "",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    },
+    "2": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "2",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    },
+    "3": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "2",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    },
+    "4": {
+      "Used": 0,
+      "Occupy Time": "",
+      "Socket Type": "",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    },
+    "5": {
+      "Used": 0,
+      "Occupy Time": "",
+      "Socket Type": "",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    },
+    "6": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "1",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    },
+    "7": {
+      "Used": 0,
+      "Occupy Time": "",
+      "Socket Type": "",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    },
+    "8": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "3",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    },
+    "9": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "4",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    },
+    "10": {
+      "Used": 1,
+      "Occupy Time": "",
+      "Socket Type": "1",
+      "FingerID": "",
+      "Picture": "",
+      "enabled": 1
+    }
+  }
+}
